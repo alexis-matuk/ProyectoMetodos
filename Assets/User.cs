@@ -124,7 +124,7 @@ public class User : MonoBehaviour {
             for (int i = 1; i < places.Count; i++)
             {
                 int current = GameObject.Find(places[i]).GetComponent<QueueManager>().totalUsers;
-                if (current < lower)
+                if (current < lower && GameObject.Find(places[i]).activeSelf == true)
                 {
                     lower = current;
                     pos = i;
@@ -150,7 +150,7 @@ public class User : MonoBehaviour {
                     for (int i = 1; i < cajas.transform.childCount; i++)
                     {
                         int current = cajas.transform.GetChild(i).GetComponent<QueueManager>().getTotalUsers();
-                        if (current < lower)
+                        if (current < lower && cajas.transform.GetChild(i).gameObject.activeSelf == true)
                         {
                             lower = current;
                             place = i;
@@ -166,7 +166,7 @@ public class User : MonoBehaviour {
                     for (int i = 1; i < embolsadoras.transform.childCount; i++)
                     {
                         int current = embolsadoras.transform.GetChild(i).GetComponent<QueueManager>().getTotalUsers();
-                        if (current < lower)
+                        if (current < lower && embolsadoras.transform.GetChild(i).gameObject.activeSelf == true)
                         {
                             lower = current;
                             place = i;

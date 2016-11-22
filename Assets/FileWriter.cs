@@ -16,7 +16,7 @@ public class FileWriter : MonoBehaviour {
         if (instance == null)
             instance = this;
         else if (instance != this)
-            Destroy(gameObject);       
+            Destroy(gameObject);    
     }
 	
 	// Update is called once per frame

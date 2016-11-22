@@ -1,7 +1,0 @@
-
-[Truck]
-[0d:00h:08m:56s]
-Truck id: 1
-Tiempo en Llegada 0d:00h:00m:00s
-Tiempo en Descarga 0d:00h:06m:00s
-Tiempo total en colas: 0d:00h:06m:00s

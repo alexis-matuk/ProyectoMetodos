@@ -46,15 +46,20 @@
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\AreaManager.cs" />
+     <Compile Include="Assets\CashierSetup.cs" />
+     <Compile Include="Assets\ConfigManager.cs" />
      <Compile Include="Assets\CreateTable.cs" />
      <Compile Include="Assets\DescargaManager.cs" />
      <Compile Include="Assets\ExitStore.cs" />
      <Compile Include="Assets\FileWriter.cs" />
+     <Compile Include="Assets\LevelManager.cs" />
      <Compile Include="Assets\Limpieza.cs" />
      <Compile Include="Assets\MoveTest.cs" />
      <Compile Include="Assets\QueueManager.cs" />
+     <Compile Include="Assets\ReloadLevel.cs" />
      <Compile Include="Assets\ResizeButton.cs" />
      <Compile Include="Assets\ShowStats.cs" />
+     <Compile Include="Assets\SliderScript.cs" />
      <Compile Include="Assets\Spawner.cs" />
      <Compile Include="Assets\Timer.cs" />
      <Compile Include="Assets\TransitionManager.cs" />

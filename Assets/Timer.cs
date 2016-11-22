@@ -1,14 +1,33 @@
 ﻿using UnityEngine;
+using UnityEngine.SceneManagement;
 using UnityEngine.UI;
 using System.Collections;
 using System;
 
 public class Timer : MonoBehaviour {
 
-    [SerializeField]
-    GameObject timerText;
+    public GameObject timerText;
     public float secondsElapsed;
 	// Update is called once per frame
+
+    void Start()
+    {
+        if (SceneManager.GetActiveScene().name == "Grid")
+        {
+            secondsElapsed = 0;
+            timerText = GameObject.Find("LevelManager").GetComponent<ReloadLevel>().Overlay.transform.GetChild(1).gameObject;
+        }
+    }
+
+    void OnLevelWasLoaded()
+    {
+        if (SceneManager.GetActiveScene().name == "Grid")
+        {
+            secondsElapsed = 0;
+            timerText = GameObject.Find("LevelManager").GetComponent<ReloadLevel>().Overlay.transform.GetChild(1).gameObject;
+        }
+    }
+
 	void Update () {
         secondsElapsed = Time.timeSinceLevelLoad * VariableManager.instance.timeMultiplier;
         VariableManager.instance.secondsElapsed = secondsElapsed;

@@ -1,4 +1,5 @@
 ﻿using UnityEngine;
+using UnityEngine.SceneManagement;
 using UnityEngine.UI;
 using System.Collections;
 
@@ -20,30 +21,57 @@ public class Spawner : MonoBehaviour {
     float end;
     float start;
 
-    bool ended;
-    bool saved;
+    public bool ended;
+    public bool saved;
 
     UnityRandom urand;
 
-    [SerializeField]
-    GameObject endPanel;
+    public GameObject endPanel;
 
     void Start()
     {
-        peoplePerHour = VariableManager.instance.getArrivalRate(VariableManager.instance.arrivalRate);
-        trucksPerHour = VariableManager.instance.getArrivalRate(VariableManager.instance.truckArrivalRate);
-        invokedPeople = false;
-        invokedTrucks = false;
-        peopleCounter = 0;
-        truckCounter = 0;
-        urand = new UnityRandom();
+        if (SceneManager.GetActiveScene().name == "Grid")
+        {
+            peoplePerHour = VariableManager.instance.getArrivalRate(VariableManager.instance.arrivalRate);
+            trucksPerHour = VariableManager.instance.getArrivalRate(VariableManager.instance.truckArrivalRate);
+            invokedPeople = false;
+            invokedTrucks = false;
+            peopleCounter = 0;
+            truckCounter = 0;
+            urand = new UnityRandom();
 
-        end = 0;
-        start = VariableManager.instance.secondsElapsed;
+            end = 0;
+            start = VariableManager.instance.secondsElapsed;
 
-        ended = false;
-        saved = false;
+            ended = false;
+            saved = false;
+
+            endPanel = GameObject.Find("LevelManager").GetComponent<ReloadLevel>().AcceptSave;
+        }
     }
+
+    void OnLevelWasLoaded()
+    {
+        if (SceneManager.GetActiveScene().name == "Grid")
+        {
+            peoplePerHour = VariableManager.instance.getArrivalRate(VariableManager.instance.arrivalRate);
+            trucksPerHour = VariableManager.instance.getArrivalRate(VariableManager.instance.truckArrivalRate);
+            invokedPeople = false;
+            invokedTrucks = false;
+            peopleCounter = 0;
+            truckCounter = 0;
+            urand = new UnityRandom();
+
+            end = 0;
+            start = VariableManager.instance.secondsElapsed;
+
+            ended = false;
+            saved = false;
+       
+            endPanel = GameObject.Find("LevelManager").GetComponent<ReloadLevel>().AcceptSave;
+        }
+    }
+        
 
     void Update()
     {
@@ -94,7 +122,6 @@ public class Spawner : MonoBehaviour {
             saved = true;
             FileWriter.instance.saveFile();
         }
-        endPanel.SetActive(false);
     }
 
     void SpawnTruck()

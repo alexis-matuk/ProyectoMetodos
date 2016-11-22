@@ -1,4 +1,5 @@
 ﻿using UnityEngine;
+using UnityEngine.SceneManagement;
 using UnityEngine.UI;
 using System.Collections;
 
@@ -6,10 +7,11 @@ public class VariableManager : MonoBehaviour {
 
     public static VariableManager instance = null;
 
-    int currentId = 0;
-    int currentTruckId = 0;
     [HideInInspector]
     public GameObject lastButtonPressed;
+
+    int currentId = 0;
+    int currentTruckId = 0;
 
     private float _ProbabilidadFarmacia = 0.5f;
     private float _ProbabilidadCarnes = 0.6f;
@@ -17,9 +19,16 @@ public class VariableManager : MonoBehaviour {
     private float _ProbabilidadSalchichoneria = 0.4f;
     private float _ProbabilidadCompras = 0.8f;
     private float _ProbabilidadAccidente = 0.25f;
-    private float _arrivalRate = 10f; //5 personas por hora
+    private float _arrivalRate = 40f; //5 personas por hora
     private float _truckArrivalRate = 1f; //camiones por hora
     private float _timeMultiplier = 60f; // 1 segundo = 1 minuto
+    private int _numberOfItems = 100;
+    private float _buyRateMultiplier = 1f;
+    private float _cashierRateMultiplier = 1f;
+    private float _packingRateMultiplier = 1f;
+    private float _departmentMultiplier = 1f;
+    private float _limpiezaMultiplier = 1f;
+    private float _descargaMultiplier = 1f;
 
     //Service rates 
     private float _rateDescarga = 6f;
@@ -37,7 +46,7 @@ public class VariableManager : MonoBehaviour {
     private float _secondsElapsed = 0f;
 
     private float _totalHoursToRun = 0.5f;
-
+    private int _openCashiers = 5;
 
     public float ProbabilidadFarmacia { get { return _ProbabilidadFarmacia; } set { _ProbabilidadFarmacia = value; } }
     public float ProbabilidadCarnes { get { return _ProbabilidadCarnes; } set { _ProbabilidadCarnes = value; } }
@@ -60,7 +69,21 @@ public class VariableManager : MonoBehaviour {
     public float totalHoursToRun { get { return _totalHoursToRun; } set { _totalHoursToRun = value; } }
     public float ProbabilidadAccidente { get { return _ProbabilidadAccidente; } set { _ProbabilidadAccidente = value; } }
     public float rateLimpieza { get { return _rateLimpieza; } set { _rateLimpieza = value; } }
+    public int numberOfItems { get { return _numberOfItems; } set { _numberOfItems = value; } }
+    public float buyRateMultiplier { get { return _buyRateMultiplier; } set { _buyRateMultiplier = value; } }
+    public float cashierRateMultiplier { get { return _cashierRateMultiplier; } set { _cashierRateMultiplier = value; } }
+    public float packingRateMultiplier { get { return _packingRateMultiplier; } set { _packingRateMultiplier = value; } }
+    public float departmentMultiplier { get { return _departmentMultiplier; } set { _departmentMultiplier = value; } }
+    public float limpiezaMultiplier { get { return _limpiezaMultiplier; } set { _limpiezaMultiplier = value; } }
+    public float descargaMultiplier { get { return _descargaMultiplier; } set { _descargaMultiplier = value; } }
+    public int openCashiers { get { return _openCashiers; } set { _openCashiers = value; } }
    
+    void OnLevelWasLoaded()
+    {
+        currentId = 0;
+        currentTruckId = 0;
+        _secondsElapsed = 0f;
+    }
 
     void Awake()
     {
@@ -85,14 +108,17 @@ public class VariableManager : MonoBehaviour {
 
     void Update()
     {
-        if (lastButtonPressed != null)
+        if (ShowStats.instance != null && SceneManager.GetActiveScene().name == "Grid")
         {
-            ShowStats.instance.setStats(lastButtonPressed);
-        }
-        else
-        {
-            ShowStats.instance.setStats(null);
-        }
+            if (lastButtonPressed != null)
+            {
+                ShowStats.instance.setStats(lastButtonPressed);
+            }
+            else
+            {
+                ShowStats.instance.setStats(null);
+            }
+        }       
     }        
 
     public void setLastButtonPressed(GameObject _button)
@@ -125,7 +151,7 @@ public class VariableManager : MonoBehaviour {
         {
             case "Compra":
             {
-                return (int) urand.Range(1, 100, UnityRandom.Normalization.STDNORMAL, 1.0f);
+                return (int) urand.Range(1, _numberOfItems, UnityRandom.Normalization.STDNORMAL, 1.0f);
                 break;
             }
         }
@@ -140,121 +166,122 @@ public class VariableManager : MonoBehaviour {
             case "Limpieza":
                 {
                     float val = urand.Exponential(VariableManager.instance.rateLimpieza);
+
                     if (val >= 0 && val < 0.3f)
-                        return 10 * 60f;
+                        return 10 * 60f * limpiezaMultiplier;
                     else if (val >= 0.3f && val < 0.5f)
-                        return 11 * 60f;
+                        return 11 * 60f * limpiezaMultiplier;
                     else if (val >= 0.5f && val < 0.7f)
-                        return 13                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  * 60f;
+                        return 13 * 60f * limpiezaMultiplier;
                     else if (val >= 0.7f && val <= 1f)
-                        return 15 * 60f;
+                        return 15 * 60f * limpiezaMultiplier;
                     break;
                 }
             case "Descarga":
                 {
                     float val = urand.Exponential(VariableManager.instance.rateDescarga);
                     if (val >= 0 && val < 0.3f)
-                        return 6 * 60f;
+                        return 6 * 60f * descargaMultiplier;
                     else if (val >= 0.3f && val < 0.5f)
-                        return 5 * 60f;
+                        return 5 * 60f * descargaMultiplier;
                     else if (val >= 0.5f && val < 0.7f)
-                        return 4 * 60f;
+                        return 4 * 60f * descargaMultiplier;
                     else if (val >= 0.7f && val <= 1f)
-                        return 3 * 60f;
+                        return 3 * 60f * descargaMultiplier;
                     break;
                 }
             case "Farmacia":
                 {
                     float val = urand.Exponential(VariableManager.instance.rateFarmacia);
                     if (val >= 0 && val < 0.3f)
-                        return 6 * 60f;
+                        return 6 * 60f * departmentMultiplier;
                     else if (val >= 0.3f && val < 0.5f)
-                        return 5 * 60f;
+                        return 5 * 60f * departmentMultiplier;
                     else if (val >= 0.5f && val < 0.7f)
-                        return 4 * 60f;
+                        return 4 * 60f * departmentMultiplier;
                     else if (val >= 0.7f && val <= 1f)
-                        return 3 * 60f;
+                        return 3 * 60f * departmentMultiplier;
                     break;
                 }
             case "Salchichas":
                 {
                     float val =  urand.Exponential(VariableManager.instance.rateSalchichas);
                     if (val >= 0 && val < 0.3f)
-                        return 6 * 60f;
+                        return 6 * 60f * departmentMultiplier;
                     else if (val >= 0.3f && val < 0.5f)
-                        return 5 * 60f;
+                        return 5 * 60f * departmentMultiplier;
                     else if (val >= 0.5f && val < 0.7f)
-                        return 4 * 60f;
+                        return 4 * 60f * departmentMultiplier;
                     else if (val >= 0.7f && val <= 1f)
-                        return 3 * 60f;
+                        return 3 * 60f * departmentMultiplier;
                     break;
                 }
             case "Carnes":
                 {
                     float val =  urand.Exponential(VariableManager.instance.rateCarnes);
                     if (val >= 0 && val < 0.3f)
-                        return 6 * 60f;
+                        return 6 * 60f * departmentMultiplier;
                     else if (val >= 0.3f && val < 0.5f)
-                        return 5 * 60f;
+                        return 5 * 60f * departmentMultiplier;
                     else if (val >= 0.5f && val < 0.7f)
-                        return 4 * 60f;
+                        return 4 * 60f * departmentMultiplier;
                     else if (val >= 0.7f && val <= 1f)
-                        return 3 * 60f;
+                        return 3 * 60f * departmentMultiplier;
                     break;
                 }
             case "Atencion_Cliente":
                 {
                     float val =  urand.Exponential(VariableManager.instance.rateAtencionClientes);
                     if (val >= 0 && val < 0.3f)
-                        return 6 * 60f;
+                        return 6 * 60f * departmentMultiplier;
                     else if (val >= 0.3f && val < 0.5f)
-                        return 5 * 60f;
+                        return 5 * 60f * departmentMultiplier;
                     else if (val >= 0.5f && val < 0.7f)
-                        return 4 * 60f;
+                        return 4 * 60f * departmentMultiplier;
                     else if (val >= 0.7f && val <= 1f)
-                        return 3 * 60f;
+                        return 3 * 60f * departmentMultiplier;
                     break;
                 }
             case "Embolsadora_1":
                 {
                     float val = urand.Exponential(VariableManager.instance.rateEmbolsadora);
-                    return cashierRate(val);
+                    return packingRate(val);
                     break;            
                 }
             case "Embolsadora_2":
                 {
                     float val = urand.Exponential(VariableManager.instance.rateEmbolsadora);
-                    return cashierRate(val);
+                    return packingRate(val);
                     break;
                 }
             case "Embolsadora_3":
                 {
                     float val = urand.Exponential(VariableManager.instance.rateEmbolsadora);
-                    return cashierRate(val);
+                    return packingRate(val);
                     break;
                 }
             case "Embolsadora_4":
                 {
                     float val = urand.Exponential(VariableManager.instance.rateEmbolsadora);
-                    return cashierRate(val);
+                    return packingRate(val);
                     break;
                 }
             case "Embolsadora_5":
                 {
                     float val = urand.Exponential(VariableManager.instance.rateEmbolsadora);
-                    return cashierRate(val);
+                    return packingRate(val);
                     break;
                 }
             case "Embolsadora_6":
                 {
                     float val = urand.Exponential(VariableManager.instance.rateEmbolsadora);
-                    return cashierRate(val);
+                    return packingRate(val);
                     break;
                 }
             case "Embolsadora_7":
                 {
                     float val = urand.Exponential(VariableManager.instance.rateEmbolsadora);
-                    return cashierRate(val);
+                    return packingRate(val);
                     break;
                 }
             case "Caja_1":
@@ -302,15 +329,14 @@ public class VariableManager : MonoBehaviour {
             case "Compras":
                 {
                     float val = urand.Exponential(VariableManager.instance.rateCompras);
-
                     if (val >= 0 && val < 0.3f)
-                        return 6 * 60f;
+                        return 6 * 60f * buyRateMultiplier;
                     else if (val >= 0.3f && val < 0.5f)
-                        return 5 * 60f;
+                        return 5 * 60f * buyRateMultiplier;
                     else if (val >= 0.5f && val < 0.7f)
-                        return 4 * 60f;
+                        return 4 * 60f * buyRateMultiplier;
                     else if (val >= 0.7f && val <= 1f)
-                        return 3 * 60f;
+                        return 3 * 60f * buyRateMultiplier;
 
                     break;
                 }
@@ -327,13 +353,26 @@ public class VariableManager : MonoBehaviour {
     float cashierRate(float val)
     {
         if (val >= 0 && val < 0.3f)
-            return 0.2f * 60f;
+            return 0.2f * 60f * cashierRateMultiplier;
         else if (val >= 0.3f && val < 0.5f)
-            return 0.4f * 60f;
+            return 0.4f * 60f * cashierRateMultiplier;
         else if (val >= 0.5f && val < 0.7f)
-            return 0.7f * 60f;
+            return 0.7f * 60f * cashierRateMultiplier;
         else if (val >= 0.7f && val <= 1f)
-            return 1f * 60f;
+            return 1f * 60f * cashierRateMultiplier;
+        return 0;
+    }
+
+    float packingRate(float val)
+    {
+        if (val >= 0 && val < 0.3f)
+            return 0.05f * 60f * packingRateMultiplier;
+        else if (val >= 0.3f && val < 0.5f)
+            return 0.1f * 60f * packingRateMultiplier;
+        else if (val >= 0.5f && val < 0.7f)
+            return 0.2f * 60f * packingRateMultiplier;
+        else if (val >= 0.7f && val <= 1f)
+            return 0.4f * 60f * packingRateMultiplier;
         return 0;
     }
 }

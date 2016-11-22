@@ -1,25 +1,39 @@
 ﻿using UnityEngine;
+using UnityEngine.SceneManagement;
 using UnityEngine.UI;
 using System.Collections;
 using System;
 
 public class ShowStats : MonoBehaviour {
     public static ShowStats instance = null;
-    [SerializeField]
-    GameObject PanelStats;
-    [SerializeField]
-    GameObject MapOverlay;
+
+    public GameObject PanelStats;
+
+    public GameObject MapOverlay;
 	// Use this for initialization
     void Awake()
     {
         if (instance == null)
             instance = this;
         else if (instance != this)
-            Destroy(gameObject);        
+            Destroy(gameObject);           
     }
 
-	void Start () {
-	
+    void Start()
+    {
+        if (SceneManager.GetActiveScene().name == "Grid")
+        {
+            PanelStats = GameObject.Find("LevelManager").GetComponent<ReloadLevel>().Overlay;
+            MapOverlay = GameObject.Find("LevelManager").GetComponent<ReloadLevel>().Map;
+        }
+    }
+        
+    void OnLevelWasLoaded () {          
+        if (SceneManager.GetActiveScene().name == "Grid")
+        {
+            PanelStats = GameObject.Find("LevelManager").GetComponent<ReloadLevel>().Overlay;
+            MapOverlay = GameObject.Find("LevelManager").GetComponent<ReloadLevel>().Map;
+        }
 	}
 
     public void setStats(GameObject _button)

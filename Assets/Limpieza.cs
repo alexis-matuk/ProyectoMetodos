@@ -1,4 +1,5 @@
 ﻿using UnityEngine;
+using UnityEngine.SceneManagement;
 using UnityEngine.UI;
 using System.Collections;
 using System.Collections.Generic;
@@ -8,20 +9,41 @@ public class Limpieza : MonoBehaviour {
     float endSeconds;
     float startSeconds;
     UnityRandom urand;
-    [SerializeField]
+
     AreaManager manager;
-    [SerializeField]
+
     Text cleaningText;
     bool cleaning;
 
     float accidenteStart;
     float accidenteEnd;
-	// Use this for initialization
-	void Start () {
-        endSeconds = 0;
-        startSeconds = VariableManager.instance.secondsElapsed;
-        urand = new UnityRandom();
-        cleaning = false;
+
+    void Start()
+    {
+        if (SceneManager.GetActiveScene().name == "Grid")
+        {
+            manager = GameObject.Find("Compras").GetComponent<AreaManager>();
+            cleaningText = GameObject.Find("Compras").transform.GetChild(3).GetComponent<Text>();
+            cleaningText.gameObject.SetActive(false);
+            endSeconds = 0;
+            startSeconds = VariableManager.instance.secondsElapsed;
+            urand = new UnityRandom();
+            cleaning = false;
+        }
+    }
+
+    void OnLevelWasLoaded () 
+    { 
+        if (SceneManager.GetActiveScene().name == "Grid")
+        {
+            manager = GameObject.Find("Compras").GetComponent<AreaManager>();
+            cleaningText = GameObject.Find("Compras").transform.GetChild(3).GetComponent<Text>();
+            cleaningText.gameObject.SetActive(false);
+            endSeconds = 0;
+            startSeconds = VariableManager.instance.secondsElapsed;
+            urand = new UnityRandom();
+            cleaning = false;
+        }
 	}
 	
 	// Update is called once per frame

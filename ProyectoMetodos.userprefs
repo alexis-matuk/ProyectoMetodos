@@ -1,21 +1,16 @@
 ﻿<Properties StartupItem="Assembly-CSharp.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Timer.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/ConfigManager.cs">
     <Files>
-      <File FileName="Assets/User.cs" Line="282" Column="179" />
-      <File FileName="Assets/QueueManager.cs" Line="32" Column="21" />
-      <File FileName="Assets/AreaManager.cs" Line="24" Column="94" />
-      <File FileName="Assets/VariableManager.cs" Line="1" Column="5" />
+      <File FileName="Assets/Scripts/SliderScript.cs" Line="1" Column="19" />
+      <File FileName="Assets/ConfigManager.cs" Line="88" Column="1" />
+      <File FileName="Assets/VariableManager.cs" Line="18" Column="47" />
+      <File FileName="Assets/User.cs" Line="76" Column="26" />
+      <File FileName="Assets/CashierSetup.cs" Line="16" Column="24" />
+      <File FileName="Assets/TruckArrivalManager.cs" Line="27" Column="32" />
+      <File FileName="Assets/Truck.cs" Line="9" Column="22" />
+      <File FileName="Assets/DescargaManager.cs" Line="34" Column="50" />
       <File FileName="Assets/Spawner.cs" Line="94" Column="26" />
-      <File FileName="Assets/Truck.cs" Line="110" Column="69" />
-      <File FileName="Assets/TruckArrivalManager.cs" Line="26" Column="30" />
-      <File FileName="Assets/DescargaManager.cs" Line="30" Column="46" />
-      <File FileName="Assets/ExitStore.cs" Line="15" Column="52" />
-      <File FileName="Assets/TransitionManager.cs" Line="14" Column="33" />
-      <File FileName="Assets/Timer.cs" Line="13" Column="49" />
-      <File FileName="Assets/Limpieza.cs" Line="1" Column="1" />
-      <File FileName="Assets/FileWriter.cs" Line="19" Column="33" />
-      <File FileName="Assets/ShowStats.cs" Line="18" Column="33" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
