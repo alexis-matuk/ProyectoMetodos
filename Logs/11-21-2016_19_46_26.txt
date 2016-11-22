@@ -1,0 +1,16 @@
+
+[Truck]
+[0d:00h:09m:13s]
+Truck id: 1
+Tiempo en Llegada 0d:00h:00m:00s
+Tiempo en Descarga 0d:00h:06m:00s
+Tiempo total en colas: 0d:00h:06m:00s
+
+[User]
+[0d:00h:27m:14s]
+User id: 2
+Visita Farmacia
+Visita Servicio al Cliente
+Tiempo en Farmacia 0d:00h:06m:00s
+Tiempo en Servicio al Cliente 0d:00h:06m:00s
+Tiempo total en colas: 0d:00h:12m:00s

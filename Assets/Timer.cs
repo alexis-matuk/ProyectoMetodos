@@ -10,7 +10,7 @@ public class Timer : MonoBehaviour {
     public float secondsElapsed;
 	// Update is called once per frame
 	void Update () {
-        secondsElapsed = Time.realtimeSinceStartup * VariableManager.instance.timeMultiplier;
+        secondsElapsed = Time.timeSinceLevelLoad * VariableManager.instance.timeMultiplier;
         VariableManager.instance.secondsElapsed = secondsElapsed;
         TimeSpan timeSpan = TimeSpan.FromSeconds(secondsElapsed);
         string timeText = string.Format("{3:d}d:{0:D2}h:{1:D2}m:{2:D2}s", timeSpan.Hours, timeSpan.Minutes, timeSpan.Seconds, timeSpan.Days);

@@ -19,7 +19,7 @@ public class VariableManager : MonoBehaviour {
     private float _ProbabilidadAccidente = 0.25f;
     private float _arrivalRate = 10f; //5 personas por hora
     private float _truckArrivalRate = 1f; //camiones por hora
-    private float _timeMultiplier = 60f * 60F; // 1 segundo = 1 minuto
+    private float _timeMultiplier = 60f; // 1 segundo = 1 minuto
 
     //Service rates 
     private float _rateDescarga = 6f;
@@ -33,10 +33,10 @@ public class VariableManager : MonoBehaviour {
     private float _rateLimpieza = 5f;
 
 
-    private float _movementSpeed = 0.1f;
+    private float _movementSpeed = 0.5f;
     private float _secondsElapsed = 0f;
 
-    private float _totalHoursToRun = 24f;
+    private float _totalHoursToRun = 0.5f;
 
 
     public float ProbabilidadFarmacia { get { return _ProbabilidadFarmacia; } set { _ProbabilidadFarmacia = value; } }

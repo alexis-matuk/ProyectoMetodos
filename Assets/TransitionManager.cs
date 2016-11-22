@@ -11,8 +11,7 @@ public class TransitionManager : MonoBehaviour {
         if (instance == null)
             instance = this;
         else if (instance != this)
-            Destroy(gameObject);
-        DontDestroyOnLoad(gameObject);
+            Destroy(gameObject);        
     }
 
     public void moveToArea(GameObject button, string Area, float time)

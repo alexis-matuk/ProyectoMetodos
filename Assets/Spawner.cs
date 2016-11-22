@@ -1,4 +1,5 @@
 ﻿using UnityEngine;
+using UnityEngine.UI;
 using System.Collections;
 
 public class Spawner : MonoBehaviour {
@@ -19,9 +20,13 @@ public class Spawner : MonoBehaviour {
     float end;
     float start;
 
+    bool ended;
     bool saved;
 
     UnityRandom urand;
+
+    [SerializeField]
+    GameObject endPanel;
 
     void Start()
     {
@@ -36,6 +41,7 @@ public class Spawner : MonoBehaviour {
         end = 0;
         start = VariableManager.instance.secondsElapsed;
 
+        ended = false;
         saved = false;
     }
 
@@ -70,14 +76,25 @@ public class Spawner : MonoBehaviour {
 
         if ((VariableManager.instance.secondsElapsed / 3600f) >= VariableManager.instance.totalHoursToRun)
         {
-            if (!saved)
+            if (!ended)
             {
-                FileWriter.instance.saveFile();
+                gameObject.GetComponent<Timer>().enabled = false;
+                gameObject.GetComponent<Limpieza>().enabled = false;
                 Time.timeScale = 0;
-                Debug.Log("FINISHED!!!");
-                saved = true;
+                endPanel.SetActive(true);
+                ended = true;
             }
         }
+    }
+
+    public void selectSave(bool _save)
+    {
+        if (_save && !saved)
+        {
+            saved = true;
+            FileWriter.instance.saveFile();
+        }
+        endPanel.SetActive(false);
     }
 
     void SpawnTruck()

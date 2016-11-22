@@ -1,0 +1,136 @@
+
+[0d:00h:08m:31s]
+User id: 1
+Visita Farmacia
+Tiempo en Farmacia 0d:00h:06m:00s
+Tiempo total en colas: 0d:00h:06m:00s
+
+[0d:00h:39m:04s]
+User id: 5
+Visita Salchichonería
+Visita Carnes
+Tiempo en Salchichas 0d:00h:06m:00s
+Tiempo en Carnes 0d:00h:06m:00s
+Tiempo total en colas: 0d:00h:12m:00s
+
+[0d:00h:59m:29s]
+User id: 4
+Visita Farmacia
+Visita Carnes
+Visita Compras
+Tiempo en Farmacia 0d:00h:06m:00s
+Tiempo en Carnes 0d:00h:06m:00s
+Artículos comprados: 47
+Tiempo en Compras 0d:00h:06m:00s
+Tiempo en Cajas 0d:00h:09m:24s
+Tiempo en Embolsadoras 0d:00h:09m:24s
+Tiempo total en colas: 0d:00h:36m:48s
+
+[0d:00h:59m:51s]
+User id: 2
+Visita Farmacia
+Visita Compras
+Tiempo en Farmacia 0d:00h:06m:00s
+Artículos comprados: 43
+Tiempo en Compras 0d:00h:05m:00s
+Tiempo en Cajas 0d:00h:08m:36s
+Tiempo en Embolsadoras 0d:00h:30m:06s
+Tiempo total en colas: 0d:00h:49m:42s
+
+[0d:01h:09m:12s]
+User id: 7
+Visita Farmacia
+Visita Salchichonería
+Visita Servicio al Cliente
+Visita Carnes
+Tiempo en Farmacia 0d:00h:05m:00s
+Tiempo en Salchichas 0d:00h:06m:00s
+Tiempo en Servicio al Cliente 0d:00h:06m:00s
+Tiempo en Carnes 0d:00h:12m:00s
+Tiempo total en colas: 0d:00h:29m:00s
+
+[0d:01h:15m:38s]
+User id: 12
+Visita Carnes
+Tiempo en Carnes 0d:00h:06m:00s
+Tiempo total en colas: 0d:00h:06m:00s
+
+[0d:01h:18m:50s]
+User id: 3
+Visita Farmacia
+Visita Salchichonería
+Visita Servicio al Cliente
+Visita Carnes
+Visita Compras
+Tiempo en Farmacia 0d:00h:06m:00s
+Tiempo en Salchichas 0d:00h:06m:00s
+Tiempo en Servicio al Cliente 0d:00h:06m:00s
+Tiempo en Carnes 0d:00h:06m:00s
+Artículos comprados: 29
+Tiempo en Compras 0d:00h:06m:00s
+Tiempo en Cajas 0d:00h:20m:18s
+Tiempo en Embolsadoras 0d:00h:05m:48s
+Tiempo total en colas: 0d:00h:56m:06s
+
+[0d:01h:21m:40s]
+User id: 10
+Visita Farmacia
+Visita Salchichonería
+Visita Carnes
+Tiempo en Farmacia 0d:00h:06m:00s
+Tiempo en Salchichas 0d:00h:04m:00s
+Tiempo en Carnes 0d:00h:06m:00s
+Tiempo total en colas: 0d:00h:16m:00s
+
+[0d:01h:26m:25s]
+User id: 9
+Visita Farmacia
+Visita Carnes
+Visita Compras
+Tiempo en Farmacia 0d:00h:06m:00s
+Tiempo en Carnes 0d:00h:06m:00s
+Artículos comprados: 44
+Tiempo en Compras 0d:00h:04m:00s
+Tiempo en Cajas 0d:00h:08m:48s
+Tiempo en Embolsadoras 0d:00h:08m:48s
+Tiempo total en colas: 0d:00h:33m:36s
+
+[0d:01h:27m:16s]
+User id: 6
+Visita Farmacia
+Visita Salchichonería
+Visita Carnes
+Visita Compras
+Tiempo en Farmacia 0d:00h:06m:00s
+Tiempo en Salchichas 0d:00h:06m:00s
+Tiempo en Carnes 0d:00h:06m:00s
+Artículos comprados: 42
+Tiempo en Compras 0d:00h:06m:00s
+Tiempo en Cajas 0d:00h:08m:24s
+Tiempo en Embolsadoras 0d:00h:08m:24s
+Tiempo total en colas: 0d:00h:40m:48s
+
+[0d:01h:27m:41s]
+User id: 11
+Visita Farmacia
+Visita Salchichonería
+Visita Carnes
+Tiempo en Farmacia 0d:00h:06m:00s
+Tiempo en Salchichas 0d:00h:06m:00s
+Tiempo en Carnes 0d:00h:12m:00s
+Tiempo total en colas: 0d:00h:24m:00s
+
+[0d:01h:58m:09s]
+User id: 13
+Visita Farmacia
+Visita Salchichonería
+Visita Carnes
+Visita Compras
+Tiempo en Farmacia 0d:00h:06m:00s
+Tiempo en Salchichas 0d:00h:06m:00s
+Tiempo en Carnes 0d:00h:06m:00s
+Artículos comprados: 27
+Tiempo en Compras 0d:00h:06m:00s
+Tiempo en Cajas 0d:00h:05m:24s
+Tiempo en Embolsadoras 0d:00h:05m:24s
+Tiempo total en colas: 0d:00h:34m:48s

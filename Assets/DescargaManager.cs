@@ -33,6 +33,7 @@ public class DescargaManager : MonoBehaviour {
         truck.transform.localScale = new Vector2(1,1);
         float time = VariableManager.instance.getServiceRate(transform.tag);
         truck.GetComponent<Truck>().addWaitingTime(time);
+        truck.GetComponent<Truck>().addPartialWaitingTime(gameObject.name, time);
         truck.GetComponent<Truck>().startTimer();
         truck.GetComponent<Truck>().setNextTarget("Salida");
         currentTruck = truck;

@@ -25,6 +25,7 @@ public class TruckArrivalManager : MonoBehaviour {
             currentTruck.GetComponent<Truck>().setNextTarget("Descarga");
             unloading = true;
             downloadManager.GetComponent<DescargaManager>().isUnloading = true;
+            currentTruck.GetComponent<Truck>().setArrivalWaitingTime(VariableManager.instance.secondsElapsed);
         }
 
         if (currentTruck != null && currentTruck.GetComponent<Truck>().waitingTime <= 0)
@@ -40,6 +41,7 @@ public class TruckArrivalManager : MonoBehaviour {
     {               
         trucks.Enqueue(truck);
         totalTrucks++;
+        truck.GetComponent<Truck>().setArrivalTime(VariableManager.instance.secondsElapsed);
         truck.transform.SetParent(transform.Find("ItemsContainer").transform.Find("ItemsPanel").transform, true);
         truck.transform.localScale = new Vector2(1,1);
     } 

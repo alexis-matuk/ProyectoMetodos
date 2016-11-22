@@ -10,6 +10,10 @@ public class ExitStore : MonoBehaviour {
         {
             user.GetComponent<User>().writeData();
         }
+        else if (user.GetComponent<Truck>() != null)
+        {
+            user.GetComponent<Truck>().writeData();
+        }
         Destroy(user);
         user.transform.SetParent(transform.Find("ItemsContainer").transform.Find("ItemsPanel").transform, true);
         user.transform.localScale = new Vector2(1,1);

@@ -1,0 +1,30 @@
+
+[Truck]
+[0d:00h:08m:54s]
+Truck id: 1
+Tiempo en Llegada 0d:00h:00m:00s
+Tiempo en Descarga 0d:00h:06m:00s
+Tiempo total en colas: 0d:00h:06m:00s
+
+[User]
+[0d:00h:12m:54s]
+User id: 1
+Visita Farmacia
+Visita Salchichonería
+Tiempo en Farmacia 0d:00h:06m:00s
+Tiempo en Salchichas 0d:00h:04m:00s
+Tiempo total en colas: 0d:00h:10m:00s
+
+[Truck]
+[0d:00h:23m:54s]
+Truck id: 2
+Tiempo en Llegada 0d:00h:00m:00s
+Tiempo en Descarga 0d:00h:06m:00s
+Tiempo total en colas: 0d:00h:06m:00s
+
+[User]
+[0d:00h:24m:44s]
+User id: 4
+Visita Carnes
+Tiempo en Carnes 0d:00h:06m:00s
+Tiempo total en colas: 0d:00h:06m:00s

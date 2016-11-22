@@ -46,7 +46,7 @@ public class QueueManager : MonoBehaviour {
                 else
                 {
                     userInFront.GetComponent<User>().addWaitingTime(time);
-
+                    userInFront.GetComponent<User>().addPartialWaitingTime(gameObject.name, time);
                     bool first = false;
                     foreach (GameObject user in queue)
                     {
