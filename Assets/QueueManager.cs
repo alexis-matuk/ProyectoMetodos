@@ -23,13 +23,44 @@ public class QueueManager : MonoBehaviour {
             {                
                 userInFront = queue.Peek();
                 float time = VariableManager.instance.getServiceRate(transform.name);
-                if(gameObject.name.Contains("Caja") || gameObject.name.Contains("Embolsadora"))
+                if (gameObject.name.Contains("Caja") || gameObject.name.Contains("Embolsadora"))
                 {
                     User u = userInFront.GetComponent<User>();
-                    u.addWaitingTime(time*u.numberOfItems);
+                    u.addWaitingTime(time * u.numberOfItems);
+                    u.addPartialWaitingTime(gameObject.name, time * u.numberOfItems);
+
+                    bool first = false;
+                    foreach (GameObject user in queue)
+                    {
+                        if (first)
+                        {
+                            user.GetComponent<User>().addToTotalWaitingTime(time * u.numberOfItems);
+                            user.GetComponent<User>().addPartialWaitingTime(gameObject.name, time * u.numberOfItems);
+                        }
+                        else
+                        {
+                            first = true;
+                        }
+                    }
                 }
                 else
+                {
                     userInFront.GetComponent<User>().addWaitingTime(time);
+
+                    bool first = false;
+                    foreach (GameObject user in queue)
+                    {
+                        if (first)
+                        {
+                            user.GetComponent<User>().addToTotalWaitingTime(time);
+                            user.GetComponent<User>().addPartialWaitingTime(gameObject.name, time);
+                        }
+                        else
+                        {
+                            first = true;
+                        }
+                    }
+                }
                 userInFront.GetComponent<User>().startTimer();
             }
             else

@@ -49,6 +49,8 @@
      <Compile Include="Assets\CreateTable.cs" />
      <Compile Include="Assets\DescargaManager.cs" />
      <Compile Include="Assets\ExitStore.cs" />
+     <Compile Include="Assets\FileWriter.cs" />
+     <Compile Include="Assets\Limpieza.cs" />
      <Compile Include="Assets\MoveTest.cs" />
      <Compile Include="Assets\QueueManager.cs" />
      <Compile Include="Assets\ResizeButton.cs" />

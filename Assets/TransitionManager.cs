@@ -36,6 +36,12 @@ public class TransitionManager : MonoBehaviour {
             yield return null;
         }
         reached = true;
+
+        if (button.GetComponent<User>())
+        {
+            button.GetComponent<User>().addTransition();
+        }
+
         if(Area == "Compras")
             GameObject.Find(Area).GetComponent<AreaManager>().addToList(button);    
         if (areaTag.gameObject.tag == "Queue")

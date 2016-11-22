@@ -16,10 +16,10 @@ public class VariableManager : MonoBehaviour {
     private float _ProbabilidadServicioCliente = 0.25f;
     private float _ProbabilidadSalchichoneria = 0.4f;
     private float _ProbabilidadCompras = 0.8f;
+    private float _ProbabilidadAccidente = 0.25f;
     private float _arrivalRate = 10f; //5 personas por hora
     private float _truckArrivalRate = 1f; //camiones por hora
-    private float _timeMultiplier = 60f; // 1 segundo = 1 minuto
-    private float _ProbabilidadLimpieza = .2f; //2 por hora 
+    private float _timeMultiplier = 60f * 60F; // 1 segundo = 1 minuto
 
     //Service rates 
     private float _rateDescarga = 6f;
@@ -30,11 +30,13 @@ public class VariableManager : MonoBehaviour {
     private float _rateEmbolsadora = 7f;
     private float _rateCaja = 6f;
     private float _rateCompras = 7f;
+    private float _rateLimpieza = 5f;
 
-    private float _movementSpeed = 1f;
+
+    private float _movementSpeed = 0.1f;
     private float _secondsElapsed = 0f;
 
-    private float _totalHoursToRun = 1f;
+    private float _totalHoursToRun = 24f;
 
 
     public float ProbabilidadFarmacia { get { return _ProbabilidadFarmacia; } set { _ProbabilidadFarmacia = value; } }
@@ -52,11 +54,12 @@ public class VariableManager : MonoBehaviour {
     public float rateEmbolsadora { get { return _rateEmbolsadora; } set { _rateEmbolsadora = value; }}
     public float rateCaja { get { return _rateCaja; } set { _rateCaja = value; }}
     public float rateCompras { get { return _rateCompras; } set { _rateCompras = value; } }
-    public float ProbabilidadLimpieza { get { return _ProbabilidadLimpieza; } set { _ProbabilidadLimpieza = value; } }
     public float movementSpeed { get { return _movementSpeed; } set { _movementSpeed = value; } }
     public float truckArrivalRate { get { return _truckArrivalRate; } set { _truckArrivalRate = value; } }
     public float secondsElapsed { get { return _secondsElapsed; } set { _secondsElapsed = value; } }
     public float totalHoursToRun { get { return _totalHoursToRun; } set { _totalHoursToRun = value; } }
+    public float ProbabilidadAccidente { get { return _ProbabilidadAccidente; } set { _ProbabilidadAccidente = value; } }
+    public float rateLimpieza { get { return _rateLimpieza; } set { _rateLimpieza = value; } }
    
 
     void Awake()
@@ -122,7 +125,7 @@ public class VariableManager : MonoBehaviour {
         {
             case "Compra":
             {
-                    return (int) urand.Range(1, 100, UnityRandom.Normalization.STDNORMAL, 1.0f);
+                return (int) urand.Range(1, 100, UnityRandom.Normalization.STDNORMAL, 1.0f);
                 break;
             }
         }
@@ -134,6 +137,19 @@ public class VariableManager : MonoBehaviour {
         UnityRandom urand = new UnityRandom();
         switch (Area)
         {
+            case "Limpieza":
+                {
+                    float val = urand.Exponential(VariableManager.instance.rateLimpieza);
+                    if (val >= 0 && val < 0.3f)
+                        return 10 * 60f;
+                    else if (val >= 0.3f && val < 0.5f)
+                        return 11 * 60f;
+                    else if (val >= 0.5f && val < 0.7f)
+                        return 13                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  * 60f;
+                    else if (val >= 0.7f && val <= 1f)
+                        return 15 * 60f;
+                    break;
+                }
             case "Descarga":
                 {
                     float val = urand.Exponential(VariableManager.instance.rateDescarga);

@@ -1,0 +1,3195 @@
+
+User id: 2
+Farmacia: false
+Salchichonería: false
+Servicio al Cliente: false
+Carnes: true
+Compras: true
+Tiempo en Farmacia 0d:00h:00m:00s
+Tiempo en Salchichas 0d:00h:00m:00s
+Tiempo en Servicio al Cliente 0d:00h:00m:00s
+Tiempo en Carnes 0d:00h:00m:00s
+Tiempo en Compras 0d:00h:06m:00s
+Tiempo en Cajas 0d:00h:18m:12s
+Tiempo en Embolsadoras 0d:00h:18m:12s
+Tiempo total en colas: 0d:00h:48m:24s
+
+User id: 3
+Farmacia: true
+Salchichonería: false
+Servicio al Cliente: false
+Carnes: true
+Compras: true
+Tiempo en Farmacia 0d:00h:00m:00s
+Tiempo en Salchichas 0d:00h:00m:00s
+Tiempo en Servicio al Cliente 0d:00h:00m:00s
+Tiempo en Carnes 0d:00h:00m:00s
+Tiempo en Compras 0d:00h:05m:00s
+Tiempo en Cajas 0d:00h:09m:12s
+Tiempo en Embolsadoras 0d:00h:09m:12s
+Tiempo total en colas: 0d:00h:33m:24s
+
+User id: 1
+Farmacia: true
+Salchichonería: false
+Servicio al Cliente: false
+Carnes: true
+Compras: true
+Tiempo en Farmacia 0d:00h:00m:00s
+Tiempo en Salchichas 0d:00h:00m:00s
+Tiempo en Servicio al Cliente 0d:00h:00m:00s
+Tiempo en Carnes 0d:00h:00m:00s
+Tiempo en Compras 0d:00h:06m:00s
+Tiempo en Cajas 0d:00h:13m:36s
+Tiempo en Embolsadoras 0d:00h:13m:36s
+Tiempo total en colas: 0d:00h:44m:12s
+
+User id: 5
+Farmacia: false
+Salchichonería: false
+Servicio al Cliente: false
+Carnes: true
+Compras: true
+Tiempo en Farmacia 0d:00h:00m:00s
+Tiempo en Salchichas 0d:00h:00m:00s
+Tiempo en Servicio al Cliente 0d:00h:00m:00s
+Tiempo en Carnes 0d:00h:05m:00s
+Tiempo en Compras 0d:00h:06m:00s
+Tiempo en Cajas 0d:00h:12m:24s
+Tiempo en Embolsadoras 0d:00h:12m:24s
+Tiempo total en colas: 0d:00h:41m:48s
+
+User id: 12
+Farmacia: true
+Salchichonería: false
+Servicio al Cliente: true
+Carnes: true
+Compras: false
+Tiempo en Farmacia 0d:00h:00m:00s
+Tiempo en Salchichas 0d:00h:00m:00s
+Tiempo en Servicio al Cliente 0d:00h:00m:00s
+Tiempo en Carnes 0d:00h:00m:00s
+Tiempo en Compras 0d:00h:00m:00s
+Tiempo en Cajas 0d:00h:00m:00s
+Tiempo en Embolsadoras 0d:00h:00m:00s
+Tiempo total en colas: 0d:00h:17m:00s
+
+User id: 4
+Farmacia: false
+Salchichonería: false
+Servicio al Cliente: true
+Carnes: true
+Compras: true
+Tiempo en Farmacia 0d:00h:00m:00s
+Tiempo en Salchichas 0d:00h:00m:00s
+Tiempo en Servicio al Cliente 0d:00h:00m:00s
+Tiempo en Carnes 0d:00h:00m:00s
+Tiempo en Compras 0d:00h:06m:00s
+Tiempo en Cajas 0d:00h:17m:12s
+Tiempo en Embolsadoras 0d:00h:17m:12s
+Tiempo total en colas: 0d:00h:52m:24s
+
+User id: 10
+Farmacia: false
+Salchichonería: false
+Servicio al Cliente: false
+Carnes: true
+Compras: true
+Tiempo en Farmacia 0d:00h:00m:00s
+Tiempo en Salchichas 0d:00h:00m:00s
+Tiempo en Servicio al Cliente 0d:00h:00m:00s
+Tiempo en Carnes 0d:00h:00m:00s
+Tiempo en Compras 0d:00h:05m:00s
+Tiempo en Cajas 0d:00h:12m:24s
+Tiempo en Embolsadoras 0d:00h:12m:24s
+Tiempo total en colas: 0d:00h:35m:48s
+
+User id: 14
+Farmacia: true
+Salchichonería: true
+Servicio al Cliente: false
+Carnes: true
+Compras: false
+Tiempo en Farmacia 0d:00h:00m:00s
+Tiempo en Salchichas 0d:00h:00m:00s
+Tiempo en Servicio al Cliente 0d:00h:00m:00s
+Tiempo en Carnes 0d:00h:00m:00s
+Tiempo en Compras 0d:00h:00m:00s
+Tiempo en Cajas 0d:00h:00m:00s
+Tiempo en Embolsadoras 0d:00h:00m:00s
+Tiempo total en colas: 0d:00h:16m:00s
+
+User id: 6
+Farmacia: false
+Salchichonería: false
+Servicio al Cliente: true
+Carnes: false
+Compras: true
+Tiempo en Farmacia 0d:00h:00m:00s
+Tiempo en Salchichas 0d:00h:00m:00s
+Tiempo en Servicio al Cliente 0d:00h:00m:00s
+Tiempo en Carnes 0d:00h:00m:00s
+Tiempo en Compras 0d:00h:06m:00s
+Tiempo en Cajas 0d:00h:15m:00s
+Tiempo en Embolsadoras 0d:00h:15m:00s
+Tiempo total en colas: 0d:00h:42m:00s
+
+User id: 11
+Farmacia: false
+Salchichonería: true
+Servicio al Cliente: false
+Carnes: true
+Compras: true
+Tiempo en Farmacia 0d:00h:00m:00s
+Tiempo en Salchichas 0d:00h:00m:00s
+Tiempo en Servicio al Cliente 0d:00h:00m:00s
+Tiempo en Carnes 0d:00h:00m:00s
+Tiempo en Compras 0d:00h:05m:00s
+Tiempo en Cajas 0d:00h:12m:12s
+Tiempo en Embolsadoras 0d:00h:12m:12s
+Tiempo total en colas: 0d:00h:40m:24s
+
+User id: 8
+Farmacia: false
+Salchichonería: true
+Servicio al Cliente: false
+Carnes: true
+Compras: true
+Tiempo en Farmacia 0d:00h:00m:00s
+Tiempo en Salchichas 0d:00h:00m:00s
+Tiempo en Servicio al Cliente 0d:00h:00m:00s
+Tiempo en Carnes 0d:00h:06m:00s
+Tiempo en Compras 0d:00h:06m:00s
+Tiempo en Cajas 0d:00h:14m:48s
+Tiempo en Embolsadoras 0d:00h:29m:36s
+Tiempo total en colas: 0d:01h:08m:24s
+
+User id: 7
+Farmacia: true
+Salchichonería: true
+Servicio al Cliente: false
+Carnes: true
+Compras: true
+Tiempo en Farmacia 0d:00h:00m:00s
+Tiempo en Salchichas 0d:00h:00m:00s
+Tiempo en Servicio al Cliente 0d:00h:00m:00s
+Tiempo en Carnes 0d:00h:00m:00s
+Tiempo en Compras 0d:00h:06m:00s
+Tiempo en Cajas 0d:00h:01m:48s
+Tiempo en Embolsadoras 0d:00h:01m:48s
+Tiempo total en colas: 0d:00h:27m:36s
+
+User id: 22
+Farmacia: true
+Salchichonería: true
+Servicio al Cliente: false
+Carnes: false
+Compras: false
+Tiempo en Farmacia 0d:00h:00m:00s
+Tiempo en Salchichas 0d:00h:00m:00s
+Tiempo en Servicio al Cliente 0d:00h:00m:00s
+Tiempo en Carnes 0d:00h:00m:00s
+Tiempo en Compras 0d:00h:00m:00s
+Tiempo en Cajas 0d:00h:00m:00s
+Tiempo en Embolsadoras 0d:00h:00m:00s
+Tiempo total en colas: 0d:00h:12m:00s
+
+User id: 13
+Farmacia: true
+Salchichonería: false
+Servicio al Cliente: false
+Carnes: true
+Compras: true
+Tiempo en Farmacia 0d:00h:00m:00s
+Tiempo en Salchichas 0d:00h:00m:00s
+Tiempo en Servicio al Cliente 0d:00h:00m:00s
+Tiempo en Carnes 0d:00h:00m:00s
+Tiempo en Compras 0d:00h:05m:00s
+Tiempo en Cajas 0d:00h:03m:48s
+Tiempo en Embolsadoras 0d:00h:19m:48s
+Tiempo total en colas: 0d:00h:40m:36s
+
+User id: 15
+Farmacia: true
+Salchichonería: true
+Servicio al Cliente: false
+Carnes: false
+Compras: true
+Tiempo en Farmacia 0d:00h:00m:00s
+Tiempo en Salchichas 0d:00h:00m:00s
+Tiempo en Servicio al Cliente 0d:00h:00m:00s
+Tiempo en Carnes 0d:00h:00m:00s
+Tiempo en Compras 0d:00h:06m:00s
+Tiempo en Cajas 0d:00h:08m:12s
+Tiempo en Embolsadoras 0d:00h:08m:12s
+Tiempo total en colas: 0d:00h:32m:24s
+
+User id: 17
+Farmacia: true
+Salchichonería: true
+Servicio al Cliente: true
+Carnes: true
+Compras: false
+Tiempo en Farmacia 0d:00h:00m:00s
+Tiempo en Salchichas 0d:00h:00m:00s
+Tiempo en Servicio al Cliente 0d:00h:00m:00s
+Tiempo en Carnes 0d:00h:06m:00s
+Tiempo en Compras 0d:00h:00m:00s
+Tiempo en Cajas 0d:00h:00m:00s
+Tiempo en Embolsadoras 0d:00h:00m:00s
+Tiempo total en colas: 0d:00h:30m:00s
+
+User id: 26
+Farmacia: true
+Salchichonería: true
+Servicio al Cliente: false
+Carnes: false
+Compras: false
+Tiempo en Farmacia 0d:00h:06m:00s
+Tiempo en Salchichas 0d:00h:00m:00s
+Tiempo en Servicio al Cliente 0d:00h:00m:00s
+Tiempo en Carnes 0d:00h:00m:00s
+Tiempo en Compras 0d:00h:00m:00s
+Tiempo en Cajas 0d:00h:00m:00s
+Tiempo en Embolsadoras 0d:00h:00m:00s
+Tiempo total en colas: 0d:00h:18m:00s
+
+User id: 25
+Farmacia: true
+Salchichonería: false
+Servicio al Cliente: true
+Carnes: true
+Compras: false
+Tiempo en Farmacia 0d:00h:00m:00s
+Tiempo en Salchichas 0d:00h:00m:00s
+Tiempo en Servicio al Cliente 0d:00h:00m:00s
+Tiempo en Carnes 0d:00h:00m:00s
+Tiempo en Compras 0d:00h:00m:00s
+Tiempo en Cajas 0d:00h:00m:00s
+Tiempo en Embolsadoras 0d:00h:00m:00s
+Tiempo total en colas: 0d:00h:18m:00s
+
+User id: 24
+Farmacia: true
+Salchichonería: false
+Servicio al Cliente: false
+Carnes: true
+Compras: false
+Tiempo en Farmacia 0d:00h:11m:00s
+Tiempo en Salchichas 0d:00h:00m:00s
+Tiempo en Servicio al Cliente 0d:00h:00m:00s
+Tiempo en Carnes 0d:00h:06m:00s
+Tiempo en Compras 0d:00h:00m:00s
+Tiempo en Cajas 0d:00h:00m:00s
+Tiempo en Embolsadoras 0d:00h:00m:00s
+Tiempo total en colas: 0d:00h:28m:00s
+
+User id: 16
+Farmacia: false
+Salchichonería: true
+Servicio al Cliente: false
+Carnes: true
+Compras: true
+Tiempo en Farmacia 0d:00h:00m:00s
+Tiempo en Salchichas 0d:00h:00m:00s
+Tiempo en Servicio al Cliente 0d:00h:00m:00s
+Tiempo en Carnes 0d:00h:00m:00s
+Tiempo en Compras 0d:00h:06m:00s
+Tiempo en Cajas 0d:00h:25m:12s
+Tiempo en Embolsadoras 0d:00h:12m:36s
+Tiempo total en colas: 0d:00h:55m:48s
+
+User id: 31
+Farmacia: true
+Salchichonería: false
+Servicio al Cliente: false
+Carnes: false
+Compras: false
+Tiempo en Farmacia 0d:00h:06m:00s
+Tiempo en Salchichas 0d:00h:00m:00s
+Tiempo en Servicio al Cliente 0d:00h:00m:00s
+Tiempo en Carnes 0d:00h:00m:00s
+Tiempo en Compras 0d:00h:00m:00s
+Tiempo en Cajas 0d:00h:00m:00s
+Tiempo en Embolsadoras 0d:00h:00m:00s
+Tiempo total en colas: 0d:00h:12m:00s
+
+User id: 30
+Farmacia: false
+Salchichonería: true
+Servicio al Cliente: true
+Carnes: true
+Compras: false
+Tiempo en Farmacia 0d:00h:00m:00s
+Tiempo en Salchichas 0d:00h:00m:00s
+Tiempo en Servicio al Cliente 0d:00h:06m:00s
+Tiempo en Carnes 0d:00h:00m:00s
+Tiempo en Compras 0d:00h:00m:00s
+Tiempo en Cajas 0d:00h:00m:00s
+Tiempo en Embolsadoras 0d:00h:00m:00s
+Tiempo total en colas: 0d:00h:19m:00s
+
+User id: 23
+Farmacia: true
+Salchichonería: true
+Servicio al Cliente: true
+Carnes: true
+Compras: false
+Tiempo en Farmacia 0d:00h:12m:00s
+Tiempo en Salchichas 0d:00h:06m:00s
+Tiempo en Servicio al Cliente 0d:00h:00m:00s
+Tiempo en Carnes 0d:00h:00m:00s
+Tiempo en Compras 0d:00h:00m:00s
+Tiempo en Cajas 0d:00h:00m:00s
+Tiempo en Embolsadoras 0d:00h:00m:00s
+Tiempo total en colas: 0d:00h:41m:00s
+
+User id: 19
+Farmacia: true
+Salchichonería: true
+Servicio al Cliente: true
+Carnes: true
+Compras: true
+Tiempo en Farmacia 0d:00h:00m:00s
+Tiempo en Salchichas 0d:00h:00m:00s
+Tiempo en Servicio al Cliente 0d:00h:00m:00s
+Tiempo en Carnes 0d:00h:06m:00s
+Tiempo en Compras 0d:00h:06m:00s
+Tiempo en Cajas 0d:00h:05m:36s
+Tiempo en Embolsadoras 0d:00h:05m:36s
+Tiempo total en colas: 0d:00h:44m:12s
+
+User id: 9
+Farmacia: false
+Salchichonería: false
+Servicio al Cliente: true
+Carnes: true
+Compras: true
+Tiempo en Farmacia 0d:00h:00m:00s
+Tiempo en Salchichas 0d:00h:00m:00s
+Tiempo en Servicio al Cliente 0d:00h:00m:00s
+Tiempo en Carnes 0d:00h:06m:00s
+Tiempo en Compras 0d:00h:06m:00s
+Tiempo en Cajas 0d:01h:07m:12s
+Tiempo en Embolsadoras 0d:00h:38m:24s
+Tiempo total en colas: 0d:02h:09m:36s
+
+User id: 34
+Farmacia: true
+Salchichonería: false
+Servicio al Cliente: true
+Carnes: true
+Compras: false
+Tiempo en Farmacia 0d:00h:00m:00s
+Tiempo en Salchichas 0d:00h:00m:00s
+Tiempo en Servicio al Cliente 0d:00h:00m:00s
+Tiempo en Carnes 0d:00h:05m:00s
+Tiempo en Compras 0d:00h:00m:00s
+Tiempo en Cajas 0d:00h:00m:00s
+Tiempo en Embolsadoras 0d:00h:00m:00s
+Tiempo total en colas: 0d:00h:22m:00s
+
+User id: 21
+Farmacia: false
+Salchichonería: true
+Servicio al Cliente: false
+Carnes: true
+Compras: true
+Tiempo en Farmacia 0d:00h:00m:00s
+Tiempo en Salchichas 0d:00h:00m:00s
+Tiempo en Servicio al Cliente 0d:00h:00m:00s
+Tiempo en Carnes 0d:00h:00m:00s
+Tiempo en Compras 0d:00h:16m:00s
+Tiempo en Cajas 0d:00h:16m:48s
+Tiempo en Embolsadoras 0d:00h:33m:36s
+Tiempo total en colas: 0d:01h:19m:48s
+
+User id: 20
+Farmacia: true
+Salchichonería: false
+Servicio al Cliente: false
+Carnes: true
+Compras: true
+Tiempo en Farmacia 0d:00h:06m:00s
+Tiempo en Salchichas 0d:00h:00m:00s
+Tiempo en Servicio al Cliente 0d:00h:00m:00s
+Tiempo en Carnes 0d:00h:05m:00s
+Tiempo en Compras 0d:00h:06m:00s
+Tiempo en Cajas 0d:00h:17m:00s
+Tiempo en Embolsadoras 0d:00h:17m:00s
+Tiempo total en colas: 0d:01h:01m:00s
+
+User id: 18
+Farmacia: false
+Salchichonería: true
+Servicio al Cliente: false
+Carnes: true
+Compras: true
+Tiempo en Farmacia 0d:00h:00m:00s
+Tiempo en Salchichas 0d:00h:06m:00s
+Tiempo en Servicio al Cliente 0d:00h:00m:00s
+Tiempo en Carnes 0d:00h:00m:00s
+Tiempo en Compras 0d:00h:06m:00s
+Tiempo en Cajas 0d:00h:13m:36s
+Tiempo en Embolsadoras 0d:00h:52m:00s
+Tiempo total en colas: 0d:01h:29m:36s
+
+User id: 37
+Farmacia: false
+Salchichonería: false
+Servicio al Cliente: false
+Carnes: false
+Compras: true
+Tiempo en Farmacia 0d:00h:00m:00s
+Tiempo en Salchichas 0d:00h:00m:00s
+Tiempo en Servicio al Cliente 0d:00h:00m:00s
+Tiempo en Carnes 0d:00h:00m:00s
+Tiempo en Compras 0d:00h:06m:00s
+Tiempo en Cajas 0d:00h:17m:12s
+Tiempo en Embolsadoras 0d:00h:17m:12s
+Tiempo total en colas: 0d:00h:40m:24s
+
+User id: 29
+Farmacia: false
+Salchichonería: false
+Servicio al Cliente: true
+Carnes: true
+Compras: true
+Tiempo en Farmacia 0d:00h:00m:00s
+Tiempo en Salchichas 0d:00h:00m:00s
+Tiempo en Servicio al Cliente 0d:00h:00m:00s
+Tiempo en Carnes 0d:00h:00m:00s
+Tiempo en Compras 0d:00h:06m:00s
+Tiempo en Cajas 0d:00h:11m:12s
+Tiempo en Embolsadoras 0d:00h:11m:12s
+Tiempo total en colas: 0d:00h:40m:24s
+
+User id: 33
+Farmacia: true
+Salchichonería: false
+Servicio al Cliente: false
+Carnes: true
+Compras: true
+Tiempo en Farmacia 0d:00h:00m:00s
+Tiempo en Salchichas 0d:00h:00m:00s
+Tiempo en Servicio al Cliente 0d:00h:00m:00s
+Tiempo en Carnes 0d:00h:06m:00s
+Tiempo en Compras 0d:00h:06m:00s
+Tiempo en Cajas 0d:00h:09m:12s
+Tiempo en Embolsadoras 0d:00h:09m:12s
+Tiempo total en colas: 0d:00h:42m:24s
+
+User id: 35
+Farmacia: false
+Salchichonería: false
+Servicio al Cliente: false
+Carnes: false
+Compras: true
+Tiempo en Farmacia 0d:00h:00m:00s
+Tiempo en Salchichas 0d:00h:00m:00s
+Tiempo en Servicio al Cliente 0d:00h:00m:00s
+Tiempo en Carnes 0d:00h:00m:00s
+Tiempo en Compras 0d:00h:04m:00s
+Tiempo en Cajas 0d:00h:39m:54s
+Tiempo en Embolsadoras 0d:00h:22m:36s
+Tiempo total en colas: 0d:01h:06m:30s
+
+User id: 43
+Farmacia: false
+Salchichonería: false
+Servicio al Cliente: true
+Carnes: false
+Compras: true
+Tiempo en Farmacia 0d:00h:00m:00s
+Tiempo en Salchichas 0d:00h:00m:00s
+Tiempo en Servicio al Cliente 0d:00h:00m:00s
+Tiempo en Carnes 0d:00h:00m:00s
+Tiempo en Compras 0d:00h:06m:00s
+Tiempo en Cajas 0d:00h:11m:24s
+Tiempo en Embolsadoras 0d:00h:11m:24s
+Tiempo total en colas: 0d:00h:34m:48s
+
+User id: 28
+Farmacia: false
+Salchichonería: true
+Servicio al Cliente: false
+Carnes: false
+Compras: true
+Tiempo en Farmacia 0d:00h:00m:00s
+Tiempo en Salchichas 0d:00h:00m:00s
+Tiempo en Servicio al Cliente 0d:00h:00m:00s
+Tiempo en Carnes 0d:00h:00m:00s
+Tiempo en Compras 0d:00h:06m:00s
+Tiempo en Cajas 0d:01h:27m:00s
+Tiempo en Embolsadoras 0d:00h:17m:24s
+Tiempo total en colas: 0d:01h:56m:24s
+
+User id: 46
+Farmacia: true
+Salchichonería: true
+Servicio al Cliente: false
+Carnes: true
+Compras: false
+Tiempo en Farmacia 0d:00h:00m:00s
+Tiempo en Salchichas 0d:00h:00m:00s
+Tiempo en Servicio al Cliente 0d:00h:00m:00s
+Tiempo en Carnes 0d:00h:00m:00s
+Tiempo en Compras 0d:00h:00m:00s
+Tiempo en Cajas 0d:00h:00m:00s
+Tiempo en Embolsadoras 0d:00h:00m:00s
+Tiempo total en colas: 0d:00h:17m:00s
+
+User id: 27
+Farmacia: false
+Salchichonería: true
+Servicio al Cliente: false
+Carnes: false
+Compras: true
+Tiempo en Farmacia 0d:00h:00m:00s
+Tiempo en Salchichas 0d:00h:00m:00s
+Tiempo en Servicio al Cliente 0d:00h:00m:00s
+Tiempo en Carnes 0d:00h:00m:00s
+Tiempo en Compras 0d:00h:06m:00s
+Tiempo en Cajas 0d:00h:48m:36s
+Tiempo en Embolsadoras 0d:00h:27m:12s
+Tiempo total en colas: 0d:01h:27m:48s
+
+User id: 49
+Farmacia: false
+Salchichonería: true
+Servicio al Cliente: false
+Carnes: true
+Compras: false
+Tiempo en Farmacia 0d:00h:00m:00s
+Tiempo en Salchichas 0d:00h:00m:00s
+Tiempo en Servicio al Cliente 0d:00h:00m:00s
+Tiempo en Carnes 0d:00h:00m:00s
+Tiempo en Compras 0d:00h:00m:00s
+Tiempo en Cajas 0d:00h:00m:00s
+Tiempo en Embolsadoras 0d:00h:00m:00s
+Tiempo total en colas: 0d:00h:12m:00s
+
+User id: 38
+Farmacia: false
+Salchichonería: true
+Servicio al Cliente: false
+Carnes: true
+Compras: true
+Tiempo en Farmacia 0d:00h:00m:00s
+Tiempo en Salchichas 0d:00h:00m:00s
+Tiempo en Servicio al Cliente 0d:00h:00m:00s
+Tiempo en Carnes 0d:00h:00m:00s
+Tiempo en Compras 0d:00h:05m:00s
+Tiempo en Cajas 0d:00h:24m:24s
+Tiempo en Embolsadoras 0d:00h:12m:36s
+Tiempo total en colas: 0d:00h:51m:00s
+
+User id: 32
+Farmacia: false
+Salchichonería: true
+Servicio al Cliente: false
+Carnes: false
+Compras: true
+Tiempo en Farmacia 0d:00h:00m:00s
+Tiempo en Salchichas 0d:00h:06m:00s
+Tiempo en Servicio al Cliente 0d:00h:00m:00s
+Tiempo en Carnes 0d:00h:00m:00s
+Tiempo en Compras 0d:00h:06m:00s
+Tiempo en Cajas 0d:00h:34m:24s
+Tiempo en Embolsadoras 0d:00h:23m:12s
+Tiempo total en colas: 0d:01h:15m:36s
+
+User id: 36
+Farmacia: true
+Salchichonería: true
+Servicio al Cliente: false
+Carnes: false
+Compras: true
+Tiempo en Farmacia 0d:00h:00m:00s
+Tiempo en Salchichas 0d:00h:00m:00s
+Tiempo en Servicio al Cliente 0d:00h:00m:00s
+Tiempo en Carnes 0d:00h:00m:00s
+Tiempo en Compras 0d:00h:06m:00s
+Tiempo en Cajas 0d:00h:31m:24s
+Tiempo en Embolsadoras 0d:00h:07m:00s
+Tiempo total en colas: 0d:00h:56m:24s
+
+User id: 42
+Farmacia: true
+Salchichonería: false
+Servicio al Cliente: false
+Carnes: true
+Compras: true
+Tiempo en Farmacia 0d:00h:00m:00s
+Tiempo en Salchichas 0d:00h:00m:00s
+Tiempo en Servicio al Cliente 0d:00h:00m:00s
+Tiempo en Carnes 0d:00h:00m:00s
+Tiempo en Compras 0d:00h:06m:00s
+Tiempo en Cajas 0d:00h:03m:48s
+Tiempo en Embolsadoras 0d:00h:27m:00s
+Tiempo total en colas: 0d:00h:47m:48s
+
+User id: 39
+Farmacia: false
+Salchichonería: false
+Servicio al Cliente: false
+Carnes: false
+Compras: true
+Tiempo en Farmacia 0d:00h:00m:00s
+Tiempo en Salchichas 0d:00h:00m:00s
+Tiempo en Servicio al Cliente 0d:00h:00m:00s
+Tiempo en Carnes 0d:00h:00m:00s
+Tiempo en Compras 0d:00h:06m:00s
+Tiempo en Cajas 0d:00h:47m:12s
+Tiempo en Embolsadoras 0d:00h:12m:48s
+Tiempo total en colas: 0d:01h:06m:00s
+
+User id: 44
+Farmacia: true
+Salchichonería: true
+Servicio al Cliente: false
+Carnes: true
+Compras: true
+Tiempo en Farmacia 0d:00h:00m:00s
+Tiempo en Salchichas 0d:00h:00m:00s
+Tiempo en Servicio al Cliente 0d:00h:00m:00s
+Tiempo en Carnes 0d:00h:06m:00s
+Tiempo en Compras 0d:00h:06m:00s
+Tiempo en Cajas 0d:00h:05m:12s
+Tiempo en Embolsadoras 0d:00h:05m:12s
+Tiempo total en colas: 0d:00h:40m:24s
+
+User id: 40
+Farmacia: false
+Salchichonería: true
+Servicio al Cliente: false
+Carnes: false
+Compras: true
+Tiempo en Farmacia 0d:00h:00m:00s
+Tiempo en Salchichas 0d:00h:00m:00s
+Tiempo en Servicio al Cliente 0d:00h:00m:00s
+Tiempo en Carnes 0d:00h:00m:00s
+Tiempo en Compras 0d:00h:06m:00s
+Tiempo en Cajas 0d:00h:21m:00s
+Tiempo en Embolsadoras 0d:00h:38m:48s
+Tiempo total en colas: 0d:01h:11m:48s
+
+User id: 41
+Farmacia: false
+Salchichonería: true
+Servicio al Cliente: false
+Carnes: true
+Compras: true
+Tiempo en Farmacia 0d:00h:00m:00s
+Tiempo en Salchichas 0d:00h:06m:00s
+Tiempo en Servicio al Cliente 0d:00h:00m:00s
+Tiempo en Carnes 0d:00h:00m:00s
+Tiempo en Compras 0d:00h:06m:00s
+Tiempo en Cajas 0d:00h:14m:24s
+Tiempo en Embolsadoras 0d:00h:27m:12s
+Tiempo total en colas: 0d:01h:05m:36s
+
+User id: 47
+Farmacia: true
+Salchichonería: true
+Servicio al Cliente: false
+Carnes: true
+Compras: true
+Tiempo en Farmacia 0d:00h:00m:00s
+Tiempo en Salchichas 0d:00h:05m:00s
+Tiempo en Servicio al Cliente 0d:00h:00m:00s
+Tiempo en Carnes 0d:00h:00m:00s
+Tiempo en Compras 0d:00h:04m:00s
+Tiempo en Cajas 0d:00h:03m:00s
+Tiempo en Embolsadoras 0d:00h:06m:00s
+Tiempo total en colas: 0d:00h:36m:00s
+
+User id: 52
+Farmacia: true
+Salchichonería: true
+Servicio al Cliente: true
+Carnes: true
+Compras: false
+Tiempo en Farmacia 0d:00h:00m:00s
+Tiempo en Salchichas 0d:00h:00m:00s
+Tiempo en Servicio al Cliente 0d:00h:00m:00s
+Tiempo en Carnes 0d:00h:00m:00s
+Tiempo en Compras 0d:00h:00m:00s
+Tiempo en Cajas 0d:00h:00m:00s
+Tiempo en Embolsadoras 0d:00h:00m:00s
+Tiempo total en colas: 0d:00h:24m:00s
+
+User id: 45
+Farmacia: false
+Salchichonería: true
+Servicio al Cliente: true
+Carnes: true
+Compras: true
+Tiempo en Farmacia 0d:00h:00m:00s
+Tiempo en Salchichas 0d:00h:00m:00s
+Tiempo en Servicio al Cliente 0d:00h:00m:00s
+Tiempo en Carnes 0d:00h:06m:00s
+Tiempo en Compras 0d:00h:06m:00s
+Tiempo en Cajas 0d:00h:15m:12s
+Tiempo en Embolsadoras 0d:00h:21m:12s
+Tiempo total en colas: 0d:01h:06m:24s
+
+User id: 48
+Farmacia: false
+Salchichonería: true
+Servicio al Cliente: false
+Carnes: true
+Compras: true
+Tiempo en Farmacia 0d:00h:00m:00s
+Tiempo en Salchichas 0d:00h:00m:00s
+Tiempo en Servicio al Cliente 0d:00h:00m:00s
+Tiempo en Carnes 0d:00h:00m:00s
+Tiempo en Compras 0d:00h:06m:00s
+Tiempo en Cajas 0d:00h:11m:48s
+Tiempo en Embolsadoras 0d:00h:27m:00s
+Tiempo total en colas: 0d:00h:56m:48s
+
+User id: 53
+Farmacia: true
+Salchichonería: false
+Servicio al Cliente: false
+Carnes: true
+Compras: true
+Tiempo en Farmacia 0d:00h:00m:00s
+Tiempo en Salchichas 0d:00h:00m:00s
+Tiempo en Servicio al Cliente 0d:00h:00m:00s
+Tiempo en Carnes 0d:00h:00m:00s
+Tiempo en Compras 0d:00h:06m:00s
+Tiempo en Cajas 0d:00h:04m:36s
+Tiempo en Embolsadoras 0d:00h:04m:36s
+Tiempo total en colas: 0d:00h:26m:12s
+
+User id: 55
+Farmacia: true
+Salchichonería: false
+Servicio al Cliente: false
+Carnes: false
+Compras: true
+Tiempo en Farmacia 0d:00h:00m:00s
+Tiempo en Salchichas 0d:00h:00m:00s
+Tiempo en Servicio al Cliente 0d:00h:00m:00s
+Tiempo en Carnes 0d:00h:00m:00s
+Tiempo en Compras 0d:00h:06m:00s
+Tiempo en Cajas 0d:00h:04m:00s
+Tiempo en Embolsadoras 0d:00h:04m:00s
+Tiempo total en colas: 0d:00h:20m:00s
+
+User id: 50
+Farmacia: true
+Salchichonería: false
+Servicio al Cliente: false
+Carnes: false
+Compras: true
+Tiempo en Farmacia 0d:00h:00m:00s
+Tiempo en Salchichas 0d:00h:00m:00s
+Tiempo en Servicio al Cliente 0d:00h:00m:00s
+Tiempo en Carnes 0d:00h:00m:00s
+Tiempo en Compras 0d:00h:06m:00s
+Tiempo en Cajas 0d:00h:27m:48s
+Tiempo en Embolsadoras 0d:00h:40m:00s
+Tiempo total en colas: 0d:01h:19m:48s
+
+User id: 70
+Farmacia: false
+Salchichonería: false
+Servicio al Cliente: false
+Carnes: false
+Compras: false
+Tiempo en Farmacia 0d:00h:00m:00s
+Tiempo en Salchichas 0d:00h:00m:00s
+Tiempo en Servicio al Cliente 0d:00h:00m:00s
+Tiempo en Carnes 0d:00h:00m:00s
+Tiempo en Compras 0d:00h:00m:00s
+Tiempo en Cajas 0d:00h:00m:00s
+Tiempo en Embolsadoras 0d:00h:00m:00s
+Tiempo total en colas: 0d:00h:00m:00s
+
+User id: 61
+Farmacia: true
+Salchichonería: false
+Servicio al Cliente: false
+Carnes: true
+Compras: false
+Tiempo en Farmacia 0d:00h:00m:00s
+Tiempo en Salchichas 0d:00h:00m:00s
+Tiempo en Servicio al Cliente 0d:00h:00m:00s
+Tiempo en Carnes 0d:00h:06m:00s
+Tiempo en Compras 0d:00h:00m:00s
+Tiempo en Cajas 0d:00h:00m:00s
+Tiempo en Embolsadoras 0d:00h:00m:00s
+Tiempo total en colas: 0d:00h:18m:00s
+
+User id: 57
+Farmacia: false
+Salchichonería: false
+Servicio al Cliente: false
+Carnes: true
+Compras: true
+Tiempo en Farmacia 0d:00h:00m:00s
+Tiempo en Salchichas 0d:00h:00m:00s
+Tiempo en Servicio al Cliente 0d:00h:00m:00s
+Tiempo en Carnes 0d:00h:00m:00s
+Tiempo en Compras 0d:00h:06m:00s
+Tiempo en Cajas 0d:00h:10m:00s
+Tiempo en Embolsadoras 0d:00h:10m:00s
+Tiempo total en colas: 0d:00h:32m:00s
+
+User id: 51
+Farmacia: false
+Salchichonería: false
+Servicio al Cliente: false
+Carnes: true
+Compras: true
+Tiempo en Farmacia 0d:00h:00m:00s
+Tiempo en Salchichas 0d:00h:00m:00s
+Tiempo en Servicio al Cliente 0d:00h:00m:00s
+Tiempo en Carnes 0d:00h:06m:00s
+Tiempo en Compras 0d:00h:06m:00s
+Tiempo en Cajas 0d:00h:56m:42s
+Tiempo en Embolsadoras 0d:00h:16m:12s
+Tiempo total en colas: 0d:01h:30m:54s
+
+User id: 60
+Farmacia: false
+Salchichonería: false
+Servicio al Cliente: false
+Carnes: true
+Compras: true
+Tiempo en Farmacia 0d:00h:00m:00s
+Tiempo en Salchichas 0d:00h:00m:00s
+Tiempo en Servicio al Cliente 0d:00h:00m:00s
+Tiempo en Carnes 0d:00h:06m:00s
+Tiempo en Compras 0d:00h:06m:00s
+Tiempo en Cajas 0d:00h:14m:00s
+Tiempo en Embolsadoras 0d:00h:14m:00s
+Tiempo total en colas: 0d:00h:46m:00s
+
+User id: 66
+Farmacia: true
+Salchichonería: false
+Servicio al Cliente: false
+Carnes: true
+Compras: false
+Tiempo en Farmacia 0d:00h:00m:00s
+Tiempo en Salchichas 0d:00h:00m:00s
+Tiempo en Servicio al Cliente 0d:00h:00m:00s
+Tiempo en Carnes 0d:00h:18m:00s
+Tiempo en Compras 0d:00h:00m:00s
+Tiempo en Cajas 0d:00h:00m:00s
+Tiempo en Embolsadoras 0d:00h:00m:00s
+Tiempo total en colas: 0d:00h:28m:00s
+
+User id: 54
+Farmacia: false
+Salchichonería: true
+Servicio al Cliente: false
+Carnes: true
+Compras: true
+Tiempo en Farmacia 0d:00h:00m:00s
+Tiempo en Salchichas 0d:00h:06m:00s
+Tiempo en Servicio al Cliente 0d:00h:00m:00s
+Tiempo en Carnes 0d:00h:00m:00s
+Tiempo en Compras 0d:00h:06m:00s
+Tiempo en Cajas 0d:00h:17m:24s
+Tiempo en Embolsadoras 0d:00h:17m:24s
+Tiempo total en colas: 0d:00h:58m:48s
+
+User id: 63
+Farmacia: true
+Salchichonería: false
+Servicio al Cliente: true
+Carnes: false
+Compras: true
+Tiempo en Farmacia 0d:00h:00m:00s
+Tiempo en Salchichas 0d:00h:00m:00s
+Tiempo en Servicio al Cliente 0d:00h:06m:00s
+Tiempo en Carnes 0d:00h:00m:00s
+Tiempo en Compras 0d:00h:06m:00s
+Tiempo en Cajas 0d:00h:05m:48s
+Tiempo en Embolsadoras 0d:00h:05m:48s
+Tiempo total en colas: 0d:00h:35m:36s
+
+User id: 69
+Farmacia: true
+Salchichonería: false
+Servicio al Cliente: false
+Carnes: true
+Compras: false
+Tiempo en Farmacia 0d:00h:06m:00s
+Tiempo en Salchichas 0d:00h:00m:00s
+Tiempo en Servicio al Cliente 0d:00h:00m:00s
+Tiempo en Carnes 0d:00h:18m:00s
+Tiempo en Compras 0d:00h:00m:00s
+Tiempo en Cajas 0d:00h:00m:00s
+Tiempo en Embolsadoras 0d:00h:00m:00s
+Tiempo total en colas: 0d:00h:36m:00s
+
+User id: 71
+Farmacia: true
+Salchichonería: false
+Servicio al Cliente: true
+Carnes: true
+Compras: false
+Tiempo en Farmacia 0d:00h:00m:00s
+Tiempo en Salchichas 0d:00h:00m:00s
+Tiempo en Servicio al Cliente 0d:00h:00m:00s
+Tiempo en Carnes 0d:00h:12m:00s
+Tiempo en Compras 0d:00h:00m:00s
+Tiempo en Cajas 0d:00h:00m:00s
+Tiempo en Embolsadoras 0d:00h:00m:00s
+Tiempo total en colas: 0d:00h:27m:00s
+
+User id: 58
+Farmacia: true
+Salchichonería: false
+Servicio al Cliente: false
+Carnes: true
+Compras: true
+Tiempo en Farmacia 0d:00h:00m:00s
+Tiempo en Salchichas 0d:00h:00m:00s
+Tiempo en Servicio al Cliente 0d:00h:00m:00s
+Tiempo en Carnes 0d:00h:06m:00s
+Tiempo en Compras 0d:00h:15m:00s
+Tiempo en Cajas 0d:00h:37m:36s
+Tiempo en Embolsadoras 0d:00h:05m:12s
+Tiempo total en colas: 0d:01h:17m:10s
+
+User id: 56
+Farmacia: false
+Salchichonería: true
+Servicio al Cliente: true
+Carnes: true
+Compras: true
+Tiempo en Farmacia 0d:00h:00m:00s
+Tiempo en Salchichas 0d:00h:00m:00s
+Tiempo en Servicio al Cliente 0d:00h:00m:00s
+Tiempo en Carnes 0d:00h:00m:00s
+Tiempo en Compras 0d:00h:06m:00s
+Tiempo en Cajas 0d:00h:32m:24s
+Tiempo en Embolsadoras 0d:00h:16m:12s
+Tiempo total en colas: 0d:01h:12m:36s
+
+User id: 82
+Farmacia: true
+Salchichonería: false
+Servicio al Cliente: false
+Carnes: false
+Compras: false
+Tiempo en Farmacia 0d:00h:04m:00s
+Tiempo en Salchichas 0d:00h:00m:00s
+Tiempo en Servicio al Cliente 0d:00h:00m:00s
+Tiempo en Carnes 0d:00h:00m:00s
+Tiempo en Compras 0d:00h:00m:00s
+Tiempo en Cajas 0d:00h:00m:00s
+Tiempo en Embolsadoras 0d:00h:00m:00s
+Tiempo total en colas: 0d:00h:10m:00s
+
+User id: 62
+Farmacia: true
+Salchichonería: false
+Servicio al Cliente: true
+Carnes: true
+Compras: true
+Tiempo en Farmacia 0d:00h:00m:00s
+Tiempo en Salchichas 0d:00h:00m:00s
+Tiempo en Servicio al Cliente 0d:00h:00m:00s
+Tiempo en Carnes 0d:00h:06m:00s
+Tiempo en Compras 0d:00h:06m:00s
+Tiempo en Cajas 0d:00h:05m:36s
+Tiempo en Embolsadoras 0d:00h:21m:48s
+Tiempo total en colas: 0d:00h:57m:24s
+
+User id: 59
+Farmacia: true
+Salchichonería: false
+Servicio al Cliente: true
+Carnes: false
+Compras: true
+Tiempo en Farmacia 0d:00h:00m:00s
+Tiempo en Salchichas 0d:00h:00m:00s
+Tiempo en Servicio al Cliente 0d:00h:00m:00s
+Tiempo en Carnes 0d:00h:00m:00s
+Tiempo en Compras 0d:00h:15m:00s
+Tiempo en Cajas 0d:00h:45m:00s
+Tiempo en Embolsadoras 0d:00h:07m:24s
+Tiempo total en colas: 0d:01h:20m:46s
+
+User id: 64
+Farmacia: false
+Salchichonería: true
+Servicio al Cliente: false
+Carnes: true
+Compras: true
+Tiempo en Farmacia 0d:00h:00m:00s
+Tiempo en Salchichas 0d:00h:00m:00s
+Tiempo en Servicio al Cliente 0d:00h:00m:00s
+Tiempo en Carnes 0d:00h:06m:00s
+Tiempo en Compras 0d:00h:06m:00s
+Tiempo en Cajas 0d:00h:21m:36s
+Tiempo en Embolsadoras 0d:00h:21m:00s
+Tiempo total en colas: 0d:01h:06m:36s
+
+User id: 72
+Farmacia: true
+Salchichonería: false
+Servicio al Cliente: false
+Carnes: false
+Compras: true
+Tiempo en Farmacia 0d:00h:00m:00s
+Tiempo en Salchichas 0d:00h:00m:00s
+Tiempo en Servicio al Cliente 0d:00h:00m:00s
+Tiempo en Carnes 0d:00h:00m:00s
+Tiempo en Compras 0d:00h:06m:00s
+Tiempo en Cajas 0d:00h:24m:36s
+Tiempo en Embolsadoras 0d:00h:06m:48s
+Tiempo total en colas: 0d:00h:43m:24s
+
+User id: 77
+Farmacia: true
+Salchichonería: true
+Servicio al Cliente: false
+Carnes: true
+Compras: false
+Tiempo en Farmacia 0d:00h:00m:00s
+Tiempo en Salchichas 0d:00h:03m:00s
+Tiempo en Servicio al Cliente 0d:00h:00m:00s
+Tiempo en Carnes 0d:00h:00m:00s
+Tiempo en Compras 0d:00h:00m:00s
+Tiempo en Cajas 0d:00h:00m:00s
+Tiempo en Embolsadoras 0d:00h:00m:00s
+Tiempo total en colas: 0d:00h:21m:00s
+
+User id: 68
+Farmacia: false
+Salchichonería: false
+Servicio al Cliente: false
+Carnes: true
+Compras: true
+Tiempo en Farmacia 0d:00h:00m:00s
+Tiempo en Salchichas 0d:00h:00m:00s
+Tiempo en Servicio al Cliente 0d:00h:00m:00s
+Tiempo en Carnes 0d:00h:12m:00s
+Tiempo en Compras 0d:00h:06m:00s
+Tiempo en Cajas 0d:00h:11m:00s
+Tiempo en Embolsadoras 0d:00h:26m:48s
+Tiempo total en colas: 0d:01h:01m:48s
+
+User id: 67
+Farmacia: true
+Salchichonería: false
+Servicio al Cliente: false
+Carnes: true
+Compras: true
+Tiempo en Farmacia 0d:00h:00m:00s
+Tiempo en Salchichas 0d:00h:00m:00s
+Tiempo en Servicio al Cliente 0d:00h:00m:00s
+Tiempo en Carnes 0d:00h:18m:00s
+Tiempo en Compras 0d:00h:06m:00s
+Tiempo en Cajas 0d:00h:07m:00s
+Tiempo en Embolsadoras 0d:00h:07m:00s
+Tiempo total en colas: 0d:00h:50m:00s
+
+User id: 74
+Farmacia: true
+Salchichonería: true
+Servicio al Cliente: false
+Carnes: false
+Compras: true
+Tiempo en Farmacia 0d:00h:06m:00s
+Tiempo en Salchichas 0d:00h:00m:00s
+Tiempo en Servicio al Cliente 0d:00h:00m:00s
+Tiempo en Carnes 0d:00h:00m:00s
+Tiempo en Compras 0d:00h:06m:00s
+Tiempo en Cajas 0d:00h:08m:00s
+Tiempo en Embolsadoras 0d:00h:08m:00s
+Tiempo total en colas: 0d:00h:40m:00s
+
+User id: 85
+Farmacia: false
+Salchichonería: false
+Servicio al Cliente: true
+Carnes: true
+Compras: false
+Tiempo en Farmacia 0d:00h:00m:00s
+Tiempo en Salchichas 0d:00h:00m:00s
+Tiempo en Servicio al Cliente 0d:00h:00m:00s
+Tiempo en Carnes 0d:00h:10m:00s
+Tiempo en Compras 0d:00h:00m:00s
+Tiempo en Cajas 0d:00h:00m:00s
+Tiempo en Embolsadoras 0d:00h:00m:00s
+Tiempo total en colas: 0d:00h:22m:00s
+
+User id: 73
+Farmacia: false
+Salchichonería: false
+Servicio al Cliente: false
+Carnes: true
+Compras: true
+Tiempo en Farmacia 0d:00h:00m:00s
+Tiempo en Salchichas 0d:00h:00m:00s
+Tiempo en Servicio al Cliente 0d:00h:00m:00s
+Tiempo en Carnes 0d:00h:12m:00s
+Tiempo en Compras 0d:00h:06m:00s
+Tiempo en Cajas 0d:00h:16m:12s
+Tiempo en Embolsadoras 0d:00h:16m:12s
+Tiempo total en colas: 0d:00h:56m:24s
+
+User id: 75
+Farmacia: false
+Salchichonería: true
+Servicio al Cliente: false
+Carnes: true
+Compras: true
+Tiempo en Farmacia 0d:00h:00m:00s
+Tiempo en Salchichas 0d:00h:00m:00s
+Tiempo en Servicio al Cliente 0d:00h:00m:00s
+Tiempo en Carnes 0d:00h:10m:00s
+Tiempo en Compras 0d:00h:06m:00s
+Tiempo en Cajas 0d:00h:10m:12s
+Tiempo en Embolsadoras 0d:00h:10m:12s
+Tiempo total en colas: 0d:00h:48m:24s
+
+User id: 76
+Farmacia: true
+Salchichonería: true
+Servicio al Cliente: false
+Carnes: false
+Compras: true
+Tiempo en Farmacia 0d:00h:00m:00s
+Tiempo en Salchichas 0d:00h:00m:00s
+Tiempo en Servicio al Cliente 0d:00h:00m:00s
+Tiempo en Carnes 0d:00h:00m:00s
+Tiempo en Compras 0d:00h:06m:00s
+Tiempo en Cajas 0d:00h:15m:48s
+Tiempo en Embolsadoras 0d:00h:15m:36s
+Tiempo total en colas: 0d:00h:49m:24s
+
+User id: 84
+Farmacia: false
+Salchichonería: false
+Servicio al Cliente: false
+Carnes: true
+Compras: true
+Tiempo en Farmacia 0d:00h:00m:00s
+Tiempo en Salchichas 0d:00h:00m:00s
+Tiempo en Servicio al Cliente 0d:00h:00m:00s
+Tiempo en Carnes 0d:00h:00m:00s
+Tiempo en Compras 0d:00h:06m:00s
+Tiempo en Cajas 0d:00h:11m:48s
+Tiempo en Embolsadoras 0d:00h:11m:48s
+Tiempo total en colas: 0d:00h:35m:36s
+
+User id: 65
+Farmacia: false
+Salchichonería: true
+Servicio al Cliente: false
+Carnes: false
+Compras: true
+Tiempo en Farmacia 0d:00h:00m:00s
+Tiempo en Salchichas 0d:00h:00m:00s
+Tiempo en Servicio al Cliente 0d:00h:00m:00s
+Tiempo en Carnes 0d:00h:00m:00s
+Tiempo en Compras 0d:00h:06m:00s
+Tiempo en Cajas 0d:01h:05m:36s
+Tiempo en Embolsadoras 0d:00h:10m:36s
+Tiempo total en colas: 0d:01h:28m:12s
+
+User id: 78
+Farmacia: true
+Salchichonería: false
+Servicio al Cliente: true
+Carnes: false
+Compras: true
+Tiempo en Farmacia 0d:00h:00m:00s
+Tiempo en Salchichas 0d:00h:00m:00s
+Tiempo en Servicio al Cliente 0d:00h:00m:00s
+Tiempo en Carnes 0d:00h:00m:00s
+Tiempo en Compras 0d:00h:06m:00s
+Tiempo en Cajas 0d:00h:07m:36s
+Tiempo en Embolsadoras 0d:00h:23m:12s
+Tiempo total en colas: 0d:00h:46m:48s
+
+User id: 94
+Farmacia: false
+Salchichonería: false
+Servicio al Cliente: false
+Carnes: false
+Compras: true
+Tiempo en Farmacia 0d:00h:00m:00s
+Tiempo en Salchichas 0d:00h:00m:00s
+Tiempo en Servicio al Cliente 0d:00h:00m:00s
+Tiempo en Carnes 0d:00h:00m:00s
+Tiempo en Compras 0d:00h:06m:00s
+Tiempo en Cajas 0d:00h:05m:36s
+Tiempo en Embolsadoras 0d:00h:05m:36s
+Tiempo total en colas: 0d:00h:17m:12s
+
+User id: 89
+Farmacia: true
+Salchichonería: false
+Servicio al Cliente: false
+Carnes: false
+Compras: true
+Tiempo en Farmacia 0d:00h:10m:00s
+Tiempo en Salchichas 0d:00h:00m:00s
+Tiempo en Servicio al Cliente 0d:00h:00m:00s
+Tiempo en Carnes 0d:00h:00m:00s
+Tiempo en Compras 0d:00h:06m:00s
+Tiempo en Cajas 0d:00h:09m:12s
+Tiempo en Embolsadoras 0d:00h:09m:12s
+Tiempo total en colas: 0d:00h:40m:24s
+
+User id: 79
+Farmacia: true
+Salchichonería: false
+Servicio al Cliente: true
+Carnes: true
+Compras: true
+Tiempo en Farmacia 0d:00h:12m:00s
+Tiempo en Salchichas 0d:00h:00m:00s
+Tiempo en Servicio al Cliente 0d:00h:00m:00s
+Tiempo en Carnes 0d:00h:10m:00s
+Tiempo en Compras 0d:00h:06m:00s
+Tiempo en Cajas 0d:00h:08m:00s
+Tiempo en Embolsadoras 0d:00h:08m:00s
+Tiempo total en colas: 0d:01h:02m:00s
+
+User id: 80
+Farmacia: true
+Salchichonería: true
+Servicio al Cliente: false
+Carnes: false
+Compras: true
+Tiempo en Farmacia 0d:00h:12m:00s
+Tiempo en Salchichas 0d:00h:00m:00s
+Tiempo en Servicio al Cliente 0d:00h:00m:00s
+Tiempo en Carnes 0d:00h:00m:00s
+Tiempo en Compras 0d:00h:06m:00s
+Tiempo en Cajas 0d:00h:36m:00s
+Tiempo en Embolsadoras 0d:00h:07m:12s
+Tiempo total en colas: 0d:01h:10m:12s
+
+User id: 87
+Farmacia: true
+Salchichonería: true
+Servicio al Cliente: false
+Carnes: false
+Compras: true
+Tiempo en Farmacia 0d:00h:10m:00s
+Tiempo en Salchichas 0d:00h:00m:00s
+Tiempo en Servicio al Cliente 0d:00h:00m:00s
+Tiempo en Carnes 0d:00h:00m:00s
+Tiempo en Compras 0d:00h:06m:00s
+Tiempo en Cajas 0d:00h:14m:18s
+Tiempo en Embolsadoras 0d:00h:01m:48s
+Tiempo total en colas: 0d:00h:42m:06s
+
+User id: 81
+Farmacia: true
+Salchichonería: true
+Servicio al Cliente: false
+Carnes: true
+Compras: true
+Tiempo en Farmacia 0d:00h:16m:00s
+Tiempo en Salchichas 0d:00h:09m:00s
+Tiempo en Servicio al Cliente 0d:00h:00m:00s
+Tiempo en Carnes 0d:00h:06m:00s
+Tiempo en Compras 0d:00h:06m:00s
+Tiempo en Cajas 0d:00h:07m:12s
+Tiempo en Embolsadoras 0d:00h:07m:12s
+Tiempo total en colas: 0d:01h:04m:24s
+
+User id: 92
+Farmacia: false
+Salchichonería: false
+Servicio al Cliente: false
+Carnes: true
+Compras: true
+Tiempo en Farmacia 0d:00h:00m:00s
+Tiempo en Salchichas 0d:00h:00m:00s
+Tiempo en Servicio al Cliente 0d:00h:00m:00s
+Tiempo en Carnes 0d:00h:12m:00s
+Tiempo en Compras 0d:00h:06m:00s
+Tiempo en Cajas 0d:00h:15m:48s
+Tiempo en Embolsadoras 0d:00h:15m:48s
+Tiempo total en colas: 0d:00h:54m:36s
+
+User id: 102
+Farmacia: false
+Salchichonería: true
+Servicio al Cliente: false
+Carnes: true
+Compras: false
+Tiempo en Farmacia 0d:00h:00m:00s
+Tiempo en Salchichas 0d:00h:00m:00s
+Tiempo en Servicio al Cliente 0d:00h:00m:00s
+Tiempo en Carnes 0d:00h:12m:00s
+Tiempo en Compras 0d:00h:00m:00s
+Tiempo en Cajas 0d:00h:00m:00s
+Tiempo en Embolsadoras 0d:00h:00m:00s
+Tiempo total en colas: 0d:00h:24m:00s
+
+User id: 90
+Farmacia: true
+Salchichonería: false
+Servicio al Cliente: false
+Carnes: false
+Compras: true
+Tiempo en Farmacia 0d:00h:16m:00s
+Tiempo en Salchichas 0d:00h:00m:00s
+Tiempo en Servicio al Cliente 0d:00h:00m:00s
+Tiempo en Carnes 0d:00h:00m:00s
+Tiempo en Compras 0d:00h:06m:00s
+Tiempo en Cajas 0d:00h:10m:54s
+Tiempo en Embolsadoras 0d:00h:20m:24s
+Tiempo total en colas: 0d:00h:57m:18s
+
+User id: 106
+Farmacia: true
+Salchichonería: false
+Servicio al Cliente: false
+Carnes: false
+Compras: false
+Tiempo en Farmacia 0d:00h:18m:00s
+Tiempo en Salchichas 0d:00h:00m:00s
+Tiempo en Servicio al Cliente 0d:00h:00m:00s
+Tiempo en Carnes 0d:00h:00m:00s
+Tiempo en Compras 0d:00h:00m:00s
+Tiempo en Cajas 0d:00h:00m:00s
+Tiempo en Embolsadoras 0d:00h:00m:00s
+Tiempo total en colas: 0d:00h:24m:00s
+
+User id: 83
+Farmacia: true
+Salchichonería: true
+Servicio al Cliente: false
+Carnes: false
+Compras: true
+Tiempo en Farmacia 0d:00h:06m:00s
+Tiempo en Salchichas 0d:00h:00m:00s
+Tiempo en Servicio al Cliente 0d:00h:00m:00s
+Tiempo en Carnes 0d:00h:00m:00s
+Tiempo en Compras 0d:00h:06m:00s
+Tiempo en Cajas 0d:00h:56m:18s
+Tiempo en Embolsadoras 0d:00h:05m:48s
+Tiempo total en colas: 0d:01h:26m:06s
+
+User id: 88
+Farmacia: true
+Salchichonería: false
+Servicio al Cliente: false
+Carnes: true
+Compras: true
+Tiempo en Farmacia 0d:00h:06m:00s
+Tiempo en Salchichas 0d:00h:00m:00s
+Tiempo en Servicio al Cliente 0d:00h:00m:00s
+Tiempo en Carnes 0d:00h:17m:00s
+Tiempo en Compras 0d:00h:06m:00s
+Tiempo en Cajas 0d:00h:05m:36s
+Tiempo en Embolsadoras 0d:00h:05m:36s
+Tiempo total en colas: 0d:00h:50m:12s
+
+User id: 91
+Farmacia: false
+Salchichonería: true
+Servicio al Cliente: false
+Carnes: true
+Compras: true
+Tiempo en Farmacia 0d:00h:00m:00s
+Tiempo en Salchichas 0d:00h:00m:00s
+Tiempo en Servicio al Cliente 0d:00h:00m:00s
+Tiempo en Carnes 0d:00h:11m:00s
+Tiempo en Compras 0d:00h:06m:00s
+Tiempo en Cajas 0d:00h:11m:00s
+Tiempo en Embolsadoras 0d:00h:15m:36s
+Tiempo total en colas: 0d:00h:55m:36s
+
+User id: 98
+Farmacia: false
+Salchichonería: true
+Servicio al Cliente: true
+Carnes: false
+Compras: true
+Tiempo en Farmacia 0d:00h:00m:00s
+Tiempo en Salchichas 0d:00h:00m:00s
+Tiempo en Servicio al Cliente 0d:00h:00m:00s
+Tiempo en Carnes 0d:00h:00m:00s
+Tiempo en Compras 0d:00h:06m:00s
+Tiempo en Cajas 0d:00h:17m:48s
+Tiempo en Embolsadoras 0d:00h:17m:48s
+Tiempo total en colas: 0d:00h:51m:36s
+
+User id: 103
+Farmacia: true
+Salchichonería: true
+Servicio al Cliente: false
+Carnes: false
+Compras: false
+Tiempo en Farmacia 0d:00h:17m:00s
+Tiempo en Salchichas 0d:00h:06m:00s
+Tiempo en Servicio al Cliente 0d:00h:00m:00s
+Tiempo en Carnes 0d:00h:00m:00s
+Tiempo en Compras 0d:00h:00m:00s
+Tiempo en Cajas 0d:00h:00m:00s
+Tiempo en Embolsadoras 0d:00h:00m:00s
+Tiempo total en colas: 0d:00h:35m:00s
+
+User id: 86
+Farmacia: true
+Salchichonería: false
+Servicio al Cliente: false
+Carnes: true
+Compras: true
+Tiempo en Farmacia 0d:00h:16m:00s
+Tiempo en Salchichas 0d:00h:00m:00s
+Tiempo en Servicio al Cliente 0d:00h:00m:00s
+Tiempo en Carnes 0d:00h:06m:00s
+Tiempo en Compras 0d:00h:05m:00s
+Tiempo en Cajas 0d:00h:08m:36s
+Tiempo en Embolsadoras 0d:00h:23m:00s
+Tiempo total en colas: 0d:01h:10m:36s
+
+User id: 96
+Farmacia: false
+Salchichonería: false
+Servicio al Cliente: false
+Carnes: true
+Compras: true
+Tiempo en Farmacia 0d:00h:00m:00s
+Tiempo en Salchichas 0d:00h:00m:00s
+Tiempo en Servicio al Cliente 0d:00h:00m:00s
+Tiempo en Carnes 0d:00h:23m:00s
+Tiempo en Compras 0d:00h:06m:00s
+Tiempo en Cajas 0d:00h:12m:12s
+Tiempo en Embolsadoras 0d:00h:12m:12s
+Tiempo total en colas: 0d:00h:59m:24s
+
+User id: 101
+Farmacia: true
+Salchichonería: false
+Servicio al Cliente: false
+Carnes: false
+Compras: true
+Tiempo en Farmacia 0d:00h:11m:00s
+Tiempo en Salchichas 0d:00h:00m:00s
+Tiempo en Servicio al Cliente 0d:00h:00m:00s
+Tiempo en Carnes 0d:00h:00m:00s
+Tiempo en Compras 0d:00h:06m:00s
+Tiempo en Cajas 0d:00h:19m:36s
+Tiempo en Embolsadoras 0d:00h:07m:24s
+Tiempo total en colas: 0d:00h:50m:00s
+
+User id: 115
+Farmacia: true
+Salchichonería: false
+Servicio al Cliente: false
+Carnes: false
+Compras: false
+Tiempo en Farmacia 0d:00h:17m:00s
+Tiempo en Salchichas 0d:00h:00m:00s
+Tiempo en Servicio al Cliente 0d:00h:00m:00s
+Tiempo en Carnes 0d:00h:00m:00s
+Tiempo en Compras 0d:00h:00m:00s
+Tiempo en Cajas 0d:00h:00m:00s
+Tiempo en Embolsadoras 0d:00h:00m:00s
+Tiempo total en colas: 0d:00h:23m:00s
+
+User id: 112
+Farmacia: false
+Salchichonería: false
+Servicio al Cliente: false
+Carnes: false
+Compras: true
+Tiempo en Farmacia 0d:00h:00m:00s
+Tiempo en Salchichas 0d:00h:00m:00s
+Tiempo en Servicio al Cliente 0d:00h:00m:00s
+Tiempo en Carnes 0d:00h:00m:00s
+Tiempo en Compras 0d:00h:05m:00s
+Tiempo en Cajas 0d:00h:14m:00s
+Tiempo en Embolsadoras 0d:00h:14m:00s
+Tiempo total en colas: 0d:00h:33m:00s
+
+User id: 97
+Farmacia: true
+Salchichonería: true
+Servicio al Cliente: false
+Carnes: true
+Compras: true
+Tiempo en Farmacia 0d:00h:06m:00s
+Tiempo en Salchichas 0d:00h:00m:00s
+Tiempo en Servicio al Cliente 0d:00h:00m:00s
+Tiempo en Carnes 0d:00h:18m:00s
+Tiempo en Compras 0d:00h:06m:00s
+Tiempo en Cajas 0d:00h:06m:24s
+Tiempo en Embolsadoras 0d:00h:06m:24s
+Tiempo total en colas: 0d:00h:58m:48s
+
+User id: 95
+Farmacia: true
+Salchichonería: false
+Servicio al Cliente: false
+Carnes: true
+Compras: true
+Tiempo en Farmacia 0d:00h:12m:00s
+Tiempo en Salchichas 0d:00h:00m:00s
+Tiempo en Servicio al Cliente 0d:00h:00m:00s
+Tiempo en Carnes 0d:00h:23m:00s
+Tiempo en Compras 0d:00h:06m:00s
+Tiempo en Cajas 0d:00h:07m:36s
+Tiempo en Embolsadoras 0d:00h:07m:36s
+Tiempo total en colas: 0d:01h:08m:12s
+
+User id: 100
+Farmacia: true
+Salchichonería: true
+Servicio al Cliente: true
+Carnes: true
+Compras: false
+Tiempo en Farmacia 0d:00h:18m:00s
+Tiempo en Salchichas 0d:00h:00m:00s
+Tiempo en Servicio al Cliente 0d:00h:00m:00s
+Tiempo en Carnes 0d:00h:18m:00s
+Tiempo en Compras 0d:00h:00m:00s
+Tiempo en Cajas 0d:00h:00m:00s
+Tiempo en Embolsadoras 0d:00h:00m:00s
+Tiempo total en colas: 0d:00h:57m:00s
+
+User id: 99
+Farmacia: true
+Salchichonería: true
+Servicio al Cliente: false
+Carnes: true
+Compras: true
+Tiempo en Farmacia 0d:00h:06m:00s
+Tiempo en Salchichas 0d:00h:06m:00s
+Tiempo en Servicio al Cliente 0d:00h:00m:00s
+Tiempo en Carnes 0d:00h:12m:00s
+Tiempo en Compras 0d:00h:06m:00s
+Tiempo en Cajas 0d:00h:06m:00s
+Tiempo en Embolsadoras 0d:00h:12m:00s
+Tiempo total en colas: 0d:01h:04m:00s
+
+User id: 93
+Farmacia: true
+Salchichonería: false
+Servicio al Cliente: true
+Carnes: true
+Compras: true
+Tiempo en Farmacia 0d:00h:16m:00s
+Tiempo en Salchichas 0d:00h:00m:00s
+Tiempo en Servicio al Cliente 0d:00h:00m:00s
+Tiempo en Carnes 0d:00h:12m:00s
+Tiempo en Compras 0d:00h:06m:00s
+Tiempo en Cajas 0d:00h:09m:00s
+Tiempo en Embolsadoras 0d:00h:18m:00s
+Tiempo total en colas: 0d:01h:19m:00s
+
+User id: 137
+Farmacia: false
+Salchichonería: false
+Servicio al Cliente: false
+Carnes: false
+Compras: false
+Tiempo en Farmacia 0d:00h:00m:00s
+Tiempo en Salchichas 0d:00h:00m:00s
+Tiempo en Servicio al Cliente 0d:00h:00m:00s
+Tiempo en Carnes 0d:00h:00m:00s
+Tiempo en Compras 0d:00h:00m:00s
+Tiempo en Cajas 0d:00h:00m:00s
+Tiempo en Embolsadoras 0d:00h:00m:00s
+Tiempo total en colas: 0d:00h:00m:00s
+
+User id: 123
+Farmacia: false
+Salchichonería: true
+Servicio al Cliente: true
+Carnes: false
+Compras: false
+Tiempo en Farmacia 0d:00h:00m:00s
+Tiempo en Salchichas 0d:00h:12m:00s
+Tiempo en Servicio al Cliente 0d:00h:00m:00s
+Tiempo en Carnes 0d:00h:00m:00s
+Tiempo en Compras 0d:00h:00m:00s
+Tiempo en Cajas 0d:00h:00m:00s
+Tiempo en Embolsadoras 0d:00h:00m:00s
+Tiempo total en colas: 0d:00h:24m:00s
+
+User id: 104
+Farmacia: false
+Salchichonería: false
+Servicio al Cliente: false
+Carnes: true
+Compras: true
+Tiempo en Farmacia 0d:00h:00m:00s
+Tiempo en Salchichas 0d:00h:00m:00s
+Tiempo en Servicio al Cliente 0d:00h:00m:00s
+Tiempo en Carnes 0d:00h:06m:00s
+Tiempo en Compras 0d:00h:06m:00s
+Tiempo en Cajas 0d:00h:51m:00s
+Tiempo en Embolsadoras 0d:00h:10m:12s
+Tiempo total en colas: 0d:01h:19m:12s
+
+User id: 105
+Farmacia: true
+Salchichonería: false
+Servicio al Cliente: false
+Carnes: true
+Compras: true
+Tiempo en Farmacia 0d:00h:06m:00s
+Tiempo en Salchichas 0d:00h:00m:00s
+Tiempo en Servicio al Cliente 0d:00h:00m:00s
+Tiempo en Carnes 0d:00h:23m:00s
+Tiempo en Compras 0d:00h:06m:00s
+Tiempo en Cajas 0d:00h:00m:48s
+Tiempo en Embolsadoras 0d:00h:00m:48s
+Tiempo total en colas: 0d:00h:48m:36s
+
+User id: 114
+Farmacia: true
+Salchichonería: true
+Servicio al Cliente: false
+Carnes: true
+Compras: false
+Tiempo en Farmacia 0d:00h:28m:00s
+Tiempo en Salchichas 0d:00h:04m:00s
+Tiempo en Servicio al Cliente 0d:00h:00m:00s
+Tiempo en Carnes 0d:00h:18m:00s
+Tiempo en Compras 0d:00h:00m:00s
+Tiempo en Cajas 0d:00h:00m:00s
+Tiempo en Embolsadoras 0d:00h:00m:00s
+Tiempo total en colas: 0d:01h:07m:00s
+
+User id: 130
+Farmacia: false
+Salchichonería: true
+Servicio al Cliente: false
+Carnes: false
+Compras: true
+Tiempo en Farmacia 0d:00h:00m:00s
+Tiempo en Salchichas 0d:00h:11m:00s
+Tiempo en Servicio al Cliente 0d:00h:00m:00s
+Tiempo en Carnes 0d:00h:00m:00s
+Tiempo en Compras 0d:00h:06m:00s
+Tiempo en Cajas 0d:00h:13m:00s
+Tiempo en Embolsadoras 0d:00h:13m:00s
+Tiempo total en colas: 0d:00h:47m:00s
+
+User id: 120
+Farmacia: true
+Salchichonería: false
+Servicio al Cliente: true
+Carnes: true
+Compras: false
+Tiempo en Farmacia 0d:00h:35m:00s
+Tiempo en Salchichas 0d:00h:00m:00s
+Tiempo en Servicio al Cliente 0d:00h:00m:00s
+Tiempo en Carnes 0d:00h:24m:00s
+Tiempo en Compras 0d:00h:00m:00s
+Tiempo en Cajas 0d:00h:00m:00s
+Tiempo en Embolsadoras 0d:00h:00m:00s
+Tiempo total en colas: 0d:01h:15m:00s
+
+User id: 132
+Farmacia: true
+Salchichonería: true
+Servicio al Cliente: false
+Carnes: false
+Compras: false
+Tiempo en Farmacia 0d:00h:35m:00s
+Tiempo en Salchichas 0d:00h:09m:00s
+Tiempo en Servicio al Cliente 0d:00h:00m:00s
+Tiempo en Carnes 0d:00h:00m:00s
+Tiempo en Compras 0d:00h:00m:00s
+Tiempo en Cajas 0d:00h:00m:00s
+Tiempo en Embolsadoras 0d:00h:00m:00s
+Tiempo total en colas: 0d:00h:56m:00s
+
+User id: 107
+Farmacia: false
+Salchichonería: true
+Servicio al Cliente: false
+Carnes: true
+Compras: true
+Tiempo en Farmacia 0d:00h:00m:00s
+Tiempo en Salchichas 0d:00h:00m:00s
+Tiempo en Servicio al Cliente 0d:00h:00m:00s
+Tiempo en Carnes 0d:00h:17m:00s
+Tiempo en Compras 0d:00h:06m:00s
+Tiempo en Cajas 0d:00h:32m:00s
+Tiempo en Embolsadoras 0d:00h:56m:00s
+Tiempo total en colas: 0d:02h:03m:00s
+
+User id: 113
+Farmacia: true
+Salchichonería: false
+Servicio al Cliente: false
+Carnes: true
+Compras: true
+Tiempo en Farmacia 0d:00h:17m:00s
+Tiempo en Salchichas 0d:00h:00m:00s
+Tiempo en Servicio al Cliente 0d:00h:00m:00s
+Tiempo en Carnes 0d:00h:28m:00s
+Tiempo en Compras 0d:00h:06m:00s
+Tiempo en Cajas 0d:00h:09m:12s
+Tiempo en Embolsadoras 0d:00h:09m:12s
+Tiempo total en colas: 0d:01h:21m:24s
+
+User id: 117
+Farmacia: false
+Salchichonería: true
+Servicio al Cliente: false
+Carnes: false
+Compras: true
+Tiempo en Farmacia 0d:00h:00m:00s
+Tiempo en Salchichas 0d:00h:12m:00s
+Tiempo en Servicio al Cliente 0d:00h:00m:00s
+Tiempo en Carnes 0d:00h:00m:00s
+Tiempo en Compras 0d:00h:06m:00s
+Tiempo en Cajas 0d:00h:18m:24s
+Tiempo en Embolsadoras 0d:00h:36m:48s
+Tiempo total en colas: 0d:01h:19m:12s
+
+User id: 118
+Farmacia: true
+Salchichonería: false
+Servicio al Cliente: true
+Carnes: false
+Compras: true
+Tiempo en Farmacia 0d:00h:18m:00s
+Tiempo en Salchichas 0d:00h:00m:00s
+Tiempo en Servicio al Cliente 0d:00h:00m:00s
+Tiempo en Carnes 0d:00h:00m:00s
+Tiempo en Compras 0d:00h:05m:00s
+Tiempo en Cajas 0d:00h:01m:48s
+Tiempo en Embolsadoras 0d:00h:01m:48s
+Tiempo total en colas: 0d:00h:38m:36s
+
+User id: 127
+Farmacia: true
+Salchichonería: false
+Servicio al Cliente: false
+Carnes: false
+Compras: true
+Tiempo en Farmacia 0d:00h:22m:00s
+Tiempo en Salchichas 0d:00h:00m:00s
+Tiempo en Servicio al Cliente 0d:00h:00m:00s
+Tiempo en Carnes 0d:00h:00m:00s
+Tiempo en Compras 0d:00h:06m:00s
+Tiempo en Cajas 0d:00h:18m:48s
+Tiempo en Embolsadoras 0d:00h:09m:36s
+Tiempo total en colas: 0d:01h:02m:24s
+
+User id: 111
+Farmacia: true
+Salchichonería: false
+Servicio al Cliente: false
+Carnes: true
+Compras: true
+Tiempo en Farmacia 0d:00h:24m:00s
+Tiempo en Salchichas 0d:00h:00m:00s
+Tiempo en Servicio al Cliente 0d:00h:00m:00s
+Tiempo en Carnes 0d:00h:17m:00s
+Tiempo en Compras 0d:00h:06m:00s
+Tiempo en Cajas 0d:00h:10m:00s
+Tiempo en Embolsadoras 0d:00h:10m:00s
+Tiempo total en colas: 0d:01h:19m:00s
+
+User id: 142
+Farmacia: false
+Salchichonería: false
+Servicio al Cliente: false
+Carnes: false
+Compras: true
+Tiempo en Farmacia 0d:00h:00m:00s
+Tiempo en Salchichas 0d:00h:00m:00s
+Tiempo en Servicio al Cliente 0d:00h:00m:00s
+Tiempo en Carnes 0d:00h:00m:00s
+Tiempo en Compras 0d:00h:06m:00s
+Tiempo en Cajas 0d:00h:20m:48s
+Tiempo en Embolsadoras 0d:00h:10m:24s
+Tiempo total en colas: 0d:00h:37m:12s
+
+User id: 108
+Farmacia: false
+Salchichonería: true
+Servicio al Cliente: false
+Carnes: true
+Compras: true
+Tiempo en Farmacia 0d:00h:00m:00s
+Tiempo en Salchichas 0d:00h:06m:00s
+Tiempo en Servicio al Cliente 0d:00h:00m:00s
+Tiempo en Carnes 0d:00h:23m:00s
+Tiempo en Compras 0d:00h:05m:00s
+Tiempo en Cajas 0d:00h:22m:00s
+Tiempo en Embolsadoras 0d:00h:12m:48s
+Tiempo total en colas: 0d:01h:20m:48s
+
+User id: 109
+Farmacia: true
+Salchichonería: true
+Servicio al Cliente: false
+Carnes: true
+Compras: true
+Tiempo en Farmacia 0d:00h:18m:00s
+Tiempo en Salchichas 0d:00h:06m:00s
+Tiempo en Servicio al Cliente 0d:00h:00m:00s
+Tiempo en Carnes 0d:00h:40m:00s
+Tiempo en Compras 0d:00h:06m:00s
+Tiempo en Cajas 0d:00h:02m:24s
+Tiempo en Embolsadoras 0d:00h:02m:24s
+Tiempo total en colas: 0d:01h:31m:48s
+
+User id: 128
+Farmacia: true
+Salchichonería: false
+Servicio al Cliente: false
+Carnes: false
+Compras: true
+Tiempo en Farmacia 0d:00h:34m:00s
+Tiempo en Salchichas 0d:00h:00m:00s
+Tiempo en Servicio al Cliente 0d:00h:00m:00s
+Tiempo en Carnes 0d:00h:00m:00s
+Tiempo en Compras 0d:00h:06m:00s
+Tiempo en Cajas 0d:00h:08m:48s
+Tiempo en Embolsadoras 0d:00h:19m:12s
+Tiempo total en colas: 0d:01h:14m:00s
+
+User id: 122
+Farmacia: false
+Salchichonería: true
+Servicio al Cliente: false
+Carnes: true
+Compras: true
+Tiempo en Farmacia 0d:00h:00m:00s
+Tiempo en Salchichas 0d:00h:06m:00s
+Tiempo en Servicio al Cliente 0d:00h:00m:00s
+Tiempo en Carnes 0d:00h:34m:00s
+Tiempo en Compras 0d:00h:06m:00s
+Tiempo en Cajas 0d:00h:13m:48s
+Tiempo en Embolsadoras 0d:00h:13m:48s
+Tiempo total en colas: 0d:01h:25m:36s
+
+User id: 119
+Farmacia: false
+Salchichonería: true
+Servicio al Cliente: false
+Carnes: true
+Compras: true
+Tiempo en Farmacia 0d:00h:00m:00s
+Tiempo en Salchichas 0d:00h:12m:00s
+Tiempo en Servicio al Cliente 0d:00h:00m:00s
+Tiempo en Carnes 0d:00h:28m:00s
+Tiempo en Compras 0d:00h:06m:00s
+Tiempo en Cajas 0d:00h:10m:36s
+Tiempo en Embolsadoras 0d:00h:13m:00s
+Tiempo total en colas: 0d:01h:21m:36s
+
+User id: 131
+Farmacia: false
+Salchichonería: false
+Servicio al Cliente: false
+Carnes: true
+Compras: true
+Tiempo en Farmacia 0d:00h:00m:00s
+Tiempo en Salchichas 0d:00h:00m:00s
+Tiempo en Servicio al Cliente 0d:00h:00m:00s
+Tiempo en Carnes 0d:00h:45m:00s
+Tiempo en Compras 0d:00h:06m:00s
+Tiempo en Cajas 0d:00h:15m:12s
+Tiempo en Embolsadoras 0d:00h:15m:12s
+Tiempo total en colas: 0d:01h:27m:24s
+
+User id: 134
+Farmacia: true
+Salchichonería: false
+Servicio al Cliente: false
+Carnes: true
+Compras: false
+Tiempo en Farmacia 0d:00h:28m:00s
+Tiempo en Salchichas 0d:00h:00m:00s
+Tiempo en Servicio al Cliente 0d:00h:00m:00s
+Tiempo en Carnes 0d:00h:47m:00s
+Tiempo en Compras 0d:00h:00m:00s
+Tiempo en Cajas 0d:00h:00m:00s
+Tiempo en Embolsadoras 0d:00h:00m:00s
+Tiempo total en colas: 0d:01h:27m:00s
+
+User id: 124
+Farmacia: true
+Salchichonería: false
+Servicio al Cliente: false
+Carnes: true
+Compras: true
+Tiempo en Farmacia 0d:00h:29m:00s
+Tiempo en Salchichas 0d:00h:00m:00s
+Tiempo en Servicio al Cliente 0d:00h:00m:00s
+Tiempo en Carnes 0d:00h:18m:00s
+Tiempo en Compras 0d:00h:05m:00s
+Tiempo en Cajas 0d:00h:09m:00s
+Tiempo en Embolsadoras 0d:00h:09m:00s
+Tiempo total en colas: 0d:01h:22m:00s
+
+User id: 133
+Farmacia: false
+Salchichonería: false
+Servicio al Cliente: false
+Carnes: true
+Compras: true
+Tiempo en Farmacia 0d:00h:00m:00s
+Tiempo en Salchichas 0d:00h:00m:00s
+Tiempo en Servicio al Cliente 0d:00h:00m:00s
+Tiempo en Carnes 0d:00h:45m:00s
+Tiempo en Compras 0d:00h:05m:00s
+Tiempo en Cajas 0d:00h:23m:24s
+Tiempo en Embolsadoras 0d:00h:14m:24s
+Tiempo total en colas: 0d:01h:33m:48s
+
+User id: 110
+Farmacia: true
+Salchichonería: true
+Servicio al Cliente: false
+Carnes: true
+Compras: true
+Tiempo en Farmacia 0d:00h:18m:00s
+Tiempo en Salchichas 0d:00h:12m:00s
+Tiempo en Servicio al Cliente 0d:00h:00m:00s
+Tiempo en Carnes 0d:00h:51m:00s
+Tiempo en Compras 0d:00h:06m:00s
+Tiempo en Cajas 0d:00h:06m:12s
+Tiempo en Embolsadoras 0d:00h:15m:12s
+Tiempo total en colas: 0d:02h:04m:24s
+
+User id: 125
+Farmacia: false
+Salchichonería: true
+Servicio al Cliente: false
+Carnes: true
+Compras: true
+Tiempo en Farmacia 0d:00h:00m:00s
+Tiempo en Salchichas 0d:00h:12m:00s
+Tiempo en Servicio al Cliente 0d:00h:00m:00s
+Tiempo en Carnes 0d:00h:51m:00s
+Tiempo en Compras 0d:00h:06m:00s
+Tiempo en Cajas 0d:00h:18m:24s
+Tiempo en Embolsadoras 0d:00h:18m:24s
+Tiempo total en colas: 0d:01h:57m:48s
+
+User id: 126
+Farmacia: true
+Salchichonería: false
+Servicio al Cliente: true
+Carnes: true
+Compras: true
+Tiempo en Farmacia 0d:00h:35m:00s
+Tiempo en Salchichas 0d:00h:00m:00s
+Tiempo en Servicio al Cliente 0d:00h:00m:00s
+Tiempo en Carnes 0d:00h:28m:00s
+Tiempo en Compras 0d:00h:06m:00s
+Tiempo en Cajas 0d:00h:14m:24s
+Tiempo en Embolsadoras 0d:00h:12m:24s
+Tiempo total en colas: 0d:01h:53m:48s
+
+User id: 135
+Farmacia: false
+Salchichonería: true
+Servicio al Cliente: false
+Carnes: true
+Compras: true
+Tiempo en Farmacia 0d:00h:00m:00s
+Tiempo en Salchichas 0d:00h:10m:00s
+Tiempo en Servicio al Cliente 0d:00h:00m:00s
+Tiempo en Carnes 0d:00h:47m:00s
+Tiempo en Compras 0d:00h:05m:00s
+Tiempo en Cajas 0d:00h:12m:36s
+Tiempo en Embolsadoras 0d:00h:12m:36s
+Tiempo total en colas: 0d:01h:39m:12s
+
+User id: 143
+Farmacia: false
+Salchichonería: true
+Servicio al Cliente: true
+Carnes: true
+Compras: false
+Tiempo en Farmacia 0d:00h:00m:00s
+Tiempo en Salchichas 0d:00h:12m:00s
+Tiempo en Servicio al Cliente 0d:00h:00m:00s
+Tiempo en Carnes 0d:00h:51m:00s
+Tiempo en Compras 0d:00h:00m:00s
+Tiempo en Cajas 0d:00h:00m:00s
+Tiempo en Embolsadoras 0d:00h:00m:00s
+Tiempo total en colas: 0d:01h:21m:00s
+
+User id: 116
+Farmacia: true
+Salchichonería: true
+Servicio al Cliente: false
+Carnes: true
+Compras: true
+Tiempo en Farmacia 0d:00h:24m:00s
+Tiempo en Salchichas 0d:00h:06m:00s
+Tiempo en Servicio al Cliente 0d:00h:00m:00s
+Tiempo en Carnes 0d:00h:53m:00s
+Tiempo en Compras 0d:00h:06m:00s
+Tiempo en Cajas 0d:00h:08m:12s
+Tiempo en Embolsadoras 0d:00h:08m:12s
+Tiempo total en colas: 0d:02h:01m:24s
+
+User id: 121
+Farmacia: true
+Salchichonería: false
+Servicio al Cliente: true
+Carnes: true
+Compras: true
+Tiempo en Farmacia 0d:00h:28m:00s
+Tiempo en Salchichas 0d:00h:00m:00s
+Tiempo en Servicio al Cliente 0d:00h:00m:00s
+Tiempo en Carnes 0d:00h:53m:00s
+Tiempo en Compras 0d:00h:06m:00s
+Tiempo en Cajas 0d:00h:15m:12s
+Tiempo en Embolsadoras 0d:00h:07m:36s
+Tiempo total en colas: 0d:02h:06m:48s
+
+User id: 140
+Farmacia: true
+Salchichonería: true
+Servicio al Cliente: false
+Carnes: false
+Compras: true
+Tiempo en Farmacia 0d:00h:42m:00s
+Tiempo en Salchichas 0d:00h:12m:00s
+Tiempo en Servicio al Cliente 0d:00h:00m:00s
+Tiempo en Carnes 0d:00h:00m:00s
+Tiempo en Compras 0d:00h:06m:00s
+Tiempo en Cajas 0d:00h:19m:36s
+Tiempo en Embolsadoras 0d:00h:04m:24s
+Tiempo total en colas: 0d:01h:35m:00s
+
+User id: 138
+Farmacia: false
+Salchichonería: false
+Servicio al Cliente: false
+Carnes: true
+Compras: true
+Tiempo en Farmacia 0d:00h:00m:00s
+Tiempo en Salchichas 0d:00h:00m:00s
+Tiempo en Servicio al Cliente 0d:00h:00m:00s
+Tiempo en Carnes 0d:00h:53m:00s
+Tiempo en Compras 0d:00h:06m:00s
+Tiempo en Cajas 0d:00h:15m:00s
+Tiempo en Embolsadoras 0d:00h:24m:48s
+Tiempo total en colas: 0d:01h:44m:48s
+
+User id: 150
+Farmacia: false
+Salchichonería: false
+Servicio al Cliente: false
+Carnes: false
+Compras: true
+Tiempo en Farmacia 0d:00h:00m:00s
+Tiempo en Salchichas 0d:00h:00m:00s
+Tiempo en Servicio al Cliente 0d:00h:00m:00s
+Tiempo en Carnes 0d:00h:00m:00s
+Tiempo en Compras 0d:00h:05m:00s
+Tiempo en Cajas 0d:00h:34m:24s
+Tiempo en Embolsadoras 0d:00h:19m:12s
+Tiempo total en colas: 0d:00h:58m:36s
+
+User id: 136
+Farmacia: true
+Salchichonería: true
+Servicio al Cliente: false
+Carnes: false
+Compras: true
+Tiempo en Farmacia 0d:00h:29m:00s
+Tiempo en Salchichas 0d:00h:16m:00s
+Tiempo en Servicio al Cliente 0d:00h:00m:00s
+Tiempo en Carnes 0d:00h:00m:00s
+Tiempo en Compras 0d:00h:06m:00s
+Tiempo en Cajas 0d:00h:02m:36s
+Tiempo en Embolsadoras 0d:00h:21m:48s
+Tiempo total en colas: 0d:01h:27m:24s
+
+User id: 145
+Farmacia: true
+Salchichonería: false
+Servicio al Cliente: false
+Carnes: false
+Compras: true
+Tiempo en Farmacia 0d:00h:36m:00s
+Tiempo en Salchichas 0d:00h:00m:00s
+Tiempo en Servicio al Cliente 0d:00h:00m:00s
+Tiempo en Carnes 0d:00h:00m:00s
+Tiempo en Compras 0d:00h:05m:00s
+Tiempo en Cajas 0d:00h:22m:24s
+Tiempo en Embolsadoras 0d:00h:17m:24s
+Tiempo total en colas: 0d:01h:26m:48s
+
+User id: 129
+Farmacia: true
+Salchichonería: true
+Servicio al Cliente: false
+Carnes: true
+Compras: true
+Tiempo en Farmacia 0d:00h:29m:00s
+Tiempo en Salchichas 0d:00h:06m:00s
+Tiempo en Servicio al Cliente 0d:00h:00m:00s
+Tiempo en Carnes 0d:00h:53m:00s
+Tiempo en Compras 0d:00h:06m:00s
+Tiempo en Cajas 0d:00h:02m:00s
+Tiempo en Embolsadoras 0d:00h:02m:00s
+Tiempo total en colas: 0d:01h:54m:00s
+
+User id: 141
+Farmacia: false
+Salchichonería: true
+Servicio al Cliente: false
+Carnes: true
+Compras: true
+Tiempo en Farmacia 0d:00h:00m:00s
+Tiempo en Salchichas 0d:00h:12m:00s
+Tiempo en Servicio al Cliente 0d:00h:00m:00s
+Tiempo en Carnes 0d:00h:47m:00s
+Tiempo en Compras 0d:00h:06m:00s
+Tiempo en Cajas 0d:00h:13m:24s
+Tiempo en Embolsadoras 0d:00h:13m:24s
+Tiempo total en colas: 0d:01h:42m:48s
+
+User id: 146
+Farmacia: true
+Salchichonería: false
+Servicio al Cliente: false
+Carnes: true
+Compras: false
+Tiempo en Farmacia 0d:00h:47m:00s
+Tiempo en Salchichas 0d:00h:00m:00s
+Tiempo en Servicio al Cliente 0d:00h:00m:00s
+Tiempo en Carnes 0d:00h:33m:00s
+Tiempo en Compras 0d:00h:00m:00s
+Tiempo en Cajas 0d:00h:00m:00s
+Tiempo en Embolsadoras 0d:00h:00m:00s
+Tiempo total en colas: 0d:01h:32m:00s
+
+User id: 157
+Farmacia: false
+Salchichonería: false
+Servicio al Cliente: true
+Carnes: false
+Compras: true
+Tiempo en Farmacia 0d:00h:00m:00s
+Tiempo en Salchichas 0d:00h:00m:00s
+Tiempo en Servicio al Cliente 0d:00h:00m:00s
+Tiempo en Carnes 0d:00h:00m:00s
+Tiempo en Compras 0d:00h:06m:00s
+Tiempo en Cajas 0d:00h:16m:48s
+Tiempo en Embolsadoras 0d:00h:12m:24s
+Tiempo total en colas: 0d:00h:41m:12s
+
+User id: 139
+Farmacia: false
+Salchichonería: true
+Servicio al Cliente: true
+Carnes: true
+Compras: true
+Tiempo en Farmacia 0d:00h:00m:00s
+Tiempo en Salchichas 0d:00h:11m:00s
+Tiempo en Servicio al Cliente 0d:00h:00m:00s
+Tiempo en Carnes 0d:00h:47m:00s
+Tiempo en Compras 0d:00h:06m:00s
+Tiempo en Cajas 0d:00h:15m:24s
+Tiempo en Embolsadoras 0d:00h:15m:24s
+Tiempo total en colas: 0d:01h:52m:48s
+
+User id: 162
+Farmacia: true
+Salchichonería: true
+Servicio al Cliente: true
+Carnes: false
+Compras: false
+Tiempo en Farmacia 0d:00h:17m:00s
+Tiempo en Salchichas 0d:00h:00m:00s
+Tiempo en Servicio al Cliente 0d:00h:00m:00s
+Tiempo en Carnes 0d:00h:00m:00s
+Tiempo en Compras 0d:00h:00m:00s
+Tiempo en Cajas 0d:00h:00m:00s
+Tiempo en Embolsadoras 0d:00h:00m:00s
+Tiempo total en colas: 0d:00h:35m:00s
+
+User id: 144
+Farmacia: true
+Salchichonería: true
+Servicio al Cliente: false
+Carnes: false
+Compras: true
+Tiempo en Farmacia 0d:00h:41m:00s
+Tiempo en Salchichas 0d:00h:11m:00s
+Tiempo en Servicio al Cliente 0d:00h:00m:00s
+Tiempo en Carnes 0d:00h:00m:00s
+Tiempo en Compras 0d:00h:06m:00s
+Tiempo en Cajas 0d:00h:21m:00s
+Tiempo en Embolsadoras 0d:00h:05m:36s
+Tiempo total en colas: 0d:01h:36m:36s
+
+User id: 148
+Farmacia: true
+Salchichonería: false
+Servicio al Cliente: false
+Carnes: true
+Compras: false
+Tiempo en Farmacia 0d:00h:41m:00s
+Tiempo en Salchichas 0d:00h:00m:00s
+Tiempo en Servicio al Cliente 0d:00h:00m:00s
+Tiempo en Carnes 0d:00h:45m:00s
+Tiempo en Compras 0d:00h:00m:00s
+Tiempo en Cajas 0d:00h:00m:00s
+Tiempo en Embolsadoras 0d:00h:00m:00s
+Tiempo total en colas: 0d:01h:38m:00s
+
+User id: 168
+Farmacia: false
+Salchichonería: false
+Servicio al Cliente: false
+Carnes: false
+Compras: true
+Tiempo en Farmacia 0d:00h:00m:00s
+Tiempo en Salchichas 0d:00h:00m:00s
+Tiempo en Servicio al Cliente 0d:00h:00m:00s
+Tiempo en Carnes 0d:00h:00m:00s
+Tiempo en Compras 0d:00h:00m:00s
+Tiempo en Cajas 0d:00h:14m:36s
+Tiempo en Embolsadoras 0d:00h:12m:36s
+Tiempo total en colas: 0d:00h:27m:12s
+
+User id: 147
+Farmacia: false
+Salchichonería: false
+Servicio al Cliente: true
+Carnes: true
+Compras: true
+Tiempo en Farmacia 0d:00h:00m:00s
+Tiempo en Salchichas 0d:00h:00m:00s
+Tiempo en Servicio al Cliente 0d:00h:00m:00s
+Tiempo en Carnes 0d:00h:52m:00s
+Tiempo en Compras 0d:00h:06m:00s
+Tiempo en Cajas 0d:00h:16m:36s
+Tiempo en Embolsadoras 0d:00h:16m:36s
+Tiempo total en colas: 0d:01h:42m:12s
+
+User id: 163
+Farmacia: false
+Salchichonería: false
+Servicio al Cliente: false
+Carnes: true
+Compras: false
+Tiempo en Farmacia 0d:00h:00m:00s
+Tiempo en Salchichas 0d:00h:00m:00s
+Tiempo en Servicio al Cliente 0d:00h:00m:00s
+Tiempo en Carnes 0d:00h:46m:00s
+Tiempo en Compras 0d:00h:00m:00s
+Tiempo en Cajas 0d:00h:00m:00s
+Tiempo en Embolsadoras 0d:00h:00m:00s
+Tiempo total en colas: 0d:00h:52m:00s
+
+User id: 167
+Farmacia: true
+Salchichonería: true
+Servicio al Cliente: false
+Carnes: false
+Compras: false
+Tiempo en Farmacia 0d:00h:18m:00s
+Tiempo en Salchichas 0d:00h:04m:00s
+Tiempo en Servicio al Cliente 0d:00h:00m:00s
+Tiempo en Carnes 0d:00h:00m:00s
+Tiempo en Compras 0d:00h:00m:00s
+Tiempo en Cajas 0d:00h:00m:00s
+Tiempo en Embolsadoras 0d:00h:00m:00s
+Tiempo total en colas: 0d:00h:34m:00s
+
+User id: 149
+Farmacia: false
+Salchichonería: true
+Servicio al Cliente: false
+Carnes: true
+Compras: true
+Tiempo en Farmacia 0d:00h:00m:00s
+Tiempo en Salchichas 0d:00h:00m:00s
+Tiempo en Servicio al Cliente 0d:00h:00m:00s
+Tiempo en Carnes 0d:00h:51m:00s
+Tiempo en Compras 0d:00h:06m:00s
+Tiempo en Cajas 0d:00h:10m:12s
+Tiempo en Embolsadoras 0d:00h:10m:12s
+Tiempo total en colas: 0d:01h:29m:24s
+
+User id: 154
+Farmacia: true
+Salchichonería: false
+Servicio al Cliente: true
+Carnes: false
+Compras: true
+Tiempo en Farmacia 0d:00h:28m:00s
+Tiempo en Salchichas 0d:00h:00m:00s
+Tiempo en Servicio al Cliente 0d:00h:00m:00s
+Tiempo en Carnes 0d:00h:00m:00s
+Tiempo en Compras 0d:00h:06m:00s
+Tiempo en Cajas 0d:00h:09m:12s
+Tiempo en Embolsadoras 0d:00h:09m:12s
+Tiempo total en colas: 0d:01h:04m:24s
+
+User id: 151
+Farmacia: false
+Salchichonería: true
+Servicio al Cliente: false
+Carnes: true
+Compras: true
+Tiempo en Farmacia 0d:00h:00m:00s
+Tiempo en Salchichas 0d:00h:00m:00s
+Tiempo en Servicio al Cliente 0d:00h:00m:00s
+Tiempo en Carnes 0d:00h:51m:00s
+Tiempo en Compras 0d:00h:06m:00s
+Tiempo en Cajas 0d:00h:13m:48s
+Tiempo en Embolsadoras 0d:00h:13m:48s
+Tiempo total en colas: 0d:01h:35m:36s
+
+User id: 170
+Farmacia: true
+Salchichonería: true
+Servicio al Cliente: false
+Carnes: false
+Compras: false
+Tiempo en Farmacia 0d:00h:24m:00s
+Tiempo en Salchichas 0d:00h:06m:00s
+Tiempo en Servicio al Cliente 0d:00h:00m:00s
+Tiempo en Carnes 0d:00h:00m:00s
+Tiempo en Compras 0d:00h:00m:00s
+Tiempo en Cajas 0d:00h:00m:00s
+Tiempo en Embolsadoras 0d:00h:00m:00s
+Tiempo total en colas: 0d:00h:39m:00s
+
+User id: 155
+Farmacia: true
+Salchichonería: true
+Servicio al Cliente: false
+Carnes: false
+Compras: true
+Tiempo en Farmacia 0d:00h:34m:00s
+Tiempo en Salchichas 0d:00h:00m:00s
+Tiempo en Servicio al Cliente 0d:00h:00m:00s
+Tiempo en Carnes 0d:00h:00m:00s
+Tiempo en Compras 0d:00h:06m:00s
+Tiempo en Cajas 0d:00h:14m:12s
+Tiempo en Embolsadoras 0d:00h:17m:48s
+Tiempo total en colas: 0d:01h:24m:00s
+
+User id: 181
+Farmacia: false
+Salchichonería: false
+Servicio al Cliente: true
+Carnes: false
+Compras: false
+Tiempo en Farmacia 0d:00h:00m:00s
+Tiempo en Salchichas 0d:00h:00m:00s
+Tiempo en Servicio al Cliente 0d:00h:00m:00s
+Tiempo en Carnes 0d:00h:00m:00s
+Tiempo en Compras 0d:00h:00m:00s
+Tiempo en Cajas 0d:00h:00m:00s
+Tiempo en Embolsadoras 0d:00h:00m:00s
+Tiempo total en colas: 0d:00h:06m:00s
+
+User id: 158
+Farmacia: true
+Salchichonería: false
+Servicio al Cliente: false
+Carnes: true
+Compras: false
+Tiempo en Farmacia 0d:00h:34m:00s
+Tiempo en Salchichas 0d:00h:00m:00s
+Tiempo en Servicio al Cliente 0d:00h:00m:00s
+Tiempo en Carnes 0d:00h:54m:00s
+Tiempo en Compras 0d:00h:00m:00s
+Tiempo en Cajas 0d:00h:00m:00s
+Tiempo en Embolsadoras 0d:00h:00m:00s
+Tiempo total en colas: 0d:01h:39m:00s
+
+User id: 177
+Farmacia: true
+Salchichonería: true
+Servicio al Cliente: false
+Carnes: false
+Compras: false
+Tiempo en Farmacia 0d:00h:30m:00s
+Tiempo en Salchichas 0d:00h:00m:00s
+Tiempo en Servicio al Cliente 0d:00h:00m:00s
+Tiempo en Carnes 0d:00h:00m:00s
+Tiempo en Compras 0d:00h:00m:00s
+Tiempo en Cajas 0d:00h:00m:00s
+Tiempo en Embolsadoras 0d:00h:00m:00s
+Tiempo total en colas: 0d:00h:42m:00s
+
+User id: 152
+Farmacia: true
+Salchichonería: false
+Servicio al Cliente: false
+Carnes: true
+Compras: true
+Tiempo en Farmacia 0d:00h:35m:00s
+Tiempo en Salchichas 0d:00h:00m:00s
+Tiempo en Servicio al Cliente 0d:00h:00m:00s
+Tiempo en Carnes 0d:00h:53m:00s
+Tiempo en Compras 0d:00h:06m:00s
+Tiempo en Cajas 0d:00h:09m:24s
+Tiempo en Embolsadoras 0d:00h:09m:24s
+Tiempo total en colas: 0d:02h:03m:48s
+
+User id: 156
+Farmacia: true
+Salchichonería: true
+Servicio al Cliente: false
+Carnes: true
+Compras: false
+Tiempo en Farmacia 0d:00h:39m:00s
+Tiempo en Salchichas 0d:00h:00m:00s
+Tiempo en Servicio al Cliente 0d:00h:00m:00s
+Tiempo en Carnes 0d:01h:00m:00s
+Tiempo en Compras 0d:00h:00m:00s
+Tiempo en Cajas 0d:00h:00m:00s
+Tiempo en Embolsadoras 0d:00h:00m:00s
+Tiempo total en colas: 0d:01h:57m:00s
+
+User id: 171
+Farmacia: false
+Salchichonería: false
+Servicio al Cliente: false
+Carnes: true
+Compras: true
+Tiempo en Farmacia 0d:00h:00m:00s
+Tiempo en Salchichas 0d:00h:00m:00s
+Tiempo en Servicio al Cliente 0d:00h:00m:00s
+Tiempo en Carnes 0d:00h:48m:00s
+Tiempo en Compras 0d:00h:06m:00s
+Tiempo en Cajas 0d:00h:03m:24s
+Tiempo en Embolsadoras 0d:00h:03m:24s
+Tiempo total en colas: 0d:01h:06m:48s
+
+User id: 159
+Farmacia: false
+Salchichonería: false
+Servicio al Cliente: true
+Carnes: true
+Compras: true
+Tiempo en Farmacia 0d:00h:00m:00s
+Tiempo en Salchichas 0d:00h:00m:00s
+Tiempo en Servicio al Cliente 0d:00h:00m:00s
+Tiempo en Carnes 0d:00h:39m:00s
+Tiempo en Compras 0d:00h:06m:00s
+Tiempo en Cajas 0d:00h:53m:12s
+Tiempo en Embolsadoras 0d:00h:15m:12s
+Tiempo total en colas: 0d:02h:05m:24s
+
+User id: 164
+Farmacia: true
+Salchichonería: false
+Servicio al Cliente: false
+Carnes: true
+Compras: false
+Tiempo en Farmacia 0d:00h:28m:00s
+Tiempo en Salchichas 0d:00h:00m:00s
+Tiempo en Servicio al Cliente 0d:00h:00m:00s
+Tiempo en Carnes 0d:01h:00m:00s
+Tiempo en Compras 0d:00h:00m:00s
+Tiempo en Cajas 0d:00h:00m:00s
+Tiempo en Embolsadoras 0d:00h:00m:00s
+Tiempo total en colas: 0d:01h:38m:00s
+
+User id: 179
+Farmacia: true
+Salchichonería: false
+Servicio al Cliente: true
+Carnes: false
+Compras: false
+Tiempo en Farmacia 0d:00h:36m:00s
+Tiempo en Salchichas 0d:00h:00m:00s
+Tiempo en Servicio al Cliente 0d:00h:00m:00s
+Tiempo en Carnes 0d:00h:00m:00s
+Tiempo en Compras 0d:00h:00m:00s
+Tiempo en Cajas 0d:00h:00m:00s
+Tiempo en Embolsadoras 0d:00h:00m:00s
+Tiempo total en colas: 0d:00h:44m:00s
+
+User id: 174
+Farmacia: true
+Salchichonería: false
+Servicio al Cliente: true
+Carnes: false
+Compras: true
+Tiempo en Farmacia 0d:00h:30m:00s
+Tiempo en Salchichas 0d:00h:00m:00s
+Tiempo en Servicio al Cliente 0d:00h:00m:00s
+Tiempo en Carnes 0d:00h:00m:00s
+Tiempo en Compras 0d:00h:06m:00s
+Tiempo en Cajas 0d:00h:06m:48s
+Tiempo en Embolsadoras 0d:00h:03m:24s
+Tiempo total en colas: 0d:00h:58m:12s
+
+User id: 161
+Farmacia: false
+Salchichonería: false
+Servicio al Cliente: true
+Carnes: true
+Compras: true
+Tiempo en Farmacia 0d:00h:00m:00s
+Tiempo en Salchichas 0d:00h:00m:00s
+Tiempo en Servicio al Cliente 0d:00h:00m:00s
+Tiempo en Carnes 0d:00h:52m:00s
+Tiempo en Compras 0d:00h:06m:00s
+Tiempo en Cajas 0d:00h:18m:00s
+Tiempo en Embolsadoras 0d:00h:27m:24s
+Tiempo total en colas: 0d:01h:55m:24s
+
+User id: 172
+Farmacia: false
+Salchichonería: true
+Servicio al Cliente: true
+Carnes: true
+Compras: false
+Tiempo en Farmacia 0d:00h:00m:00s
+Tiempo en Salchichas 0d:00h:00m:00s
+Tiempo en Servicio al Cliente 0d:00h:00m:00s
+Tiempo en Carnes 0d:00h:58m:00s
+Tiempo en Compras 0d:00h:00m:00s
+Tiempo en Cajas 0d:00h:00m:00s
+Tiempo en Embolsadoras 0d:00h:00m:00s
+Tiempo total en colas: 0d:01h:16m:00s
+
+User id: 153
+Farmacia: true
+Salchichonería: false
+Servicio al Cliente: false
+Carnes: true
+Compras: true
+Tiempo en Farmacia 0d:00h:40m:00s
+Tiempo en Salchichas 0d:00h:00m:00s
+Tiempo en Servicio al Cliente 0d:00h:00m:00s
+Tiempo en Carnes 0d:00h:53m:00s
+Tiempo en Compras 0d:00h:06m:00s
+Tiempo en Cajas 0d:00h:03m:36s
+Tiempo en Embolsadoras 0d:00h:21m:36s
+Tiempo total en colas: 0d:02h:15m:12s
+
+User id: 175
+Farmacia: true
+Salchichonería: false
+Servicio al Cliente: false
+Carnes: false
+Compras: true
+Tiempo en Farmacia 0d:00h:30m:00s
+Tiempo en Salchichas 0d:00h:00m:00s
+Tiempo en Servicio al Cliente 0d:00h:00m:00s
+Tiempo en Carnes 0d:00h:00m:00s
+Tiempo en Compras 0d:00h:06m:00s
+Tiempo en Cajas 0d:00h:26m:48s
+Tiempo en Embolsadoras 0d:00h:11m:36s
+Tiempo total en colas: 0d:01h:20m:24s
+
+User id: 190
+Farmacia: false
+Salchichonería: false
+Servicio al Cliente: false
+Carnes: false
+Compras: false
+Tiempo en Farmacia 0d:00h:00m:00s
+Tiempo en Salchichas 0d:00h:00m:00s
+Tiempo en Servicio al Cliente 0d:00h:00m:00s
+Tiempo en Carnes 0d:00h:00m:00s
+Tiempo en Compras 0d:00h:00m:00s
+Tiempo en Cajas 0d:00h:00m:00s
+Tiempo en Embolsadoras 0d:00h:00m:00s
+Tiempo total en colas: 0d:00h:00m:00s
+
+User id: 160
+Farmacia: true
+Salchichonería: false
+Servicio al Cliente: false
+Carnes: true
+Compras: true
+Tiempo en Farmacia 0d:00h:36m:00s
+Tiempo en Salchichas 0d:00h:00m:00s
+Tiempo en Servicio al Cliente 0d:00h:00m:00s
+Tiempo en Carnes 0d:00h:39m:00s
+Tiempo en Compras 0d:00h:06m:00s
+Tiempo en Cajas 0d:00h:07m:36s
+Tiempo en Embolsadoras 0d:00h:03m:48s
+Tiempo total en colas: 0d:01h:44m:24s
+
+User id: 176
+Farmacia: false
+Salchichonería: true
+Servicio al Cliente: false
+Carnes: true
+Compras: false
+Tiempo en Farmacia 0d:00h:00m:00s
+Tiempo en Salchichas 0d:00h:00m:00s
+Tiempo en Servicio al Cliente 0d:00h:00m:00s
+Tiempo en Carnes 0d:00h:58m:00s
+Tiempo en Compras 0d:00h:00m:00s
+Tiempo en Cajas 0d:00h:00m:00s
+Tiempo en Embolsadoras 0d:00h:00m:00s
+Tiempo total en colas: 0d:01h:10m:00s
+
+User id: 173
+Farmacia: false
+Salchichonería: false
+Servicio al Cliente: false
+Carnes: true
+Compras: true
+Tiempo en Farmacia 0d:00h:00m:00s
+Tiempo en Salchichas 0d:00h:00m:00s
+Tiempo en Servicio al Cliente 0d:00h:00m:00s
+Tiempo en Carnes 0d:00h:48m:00s
+Tiempo en Compras 0d:00h:06m:00s
+Tiempo en Cajas 0d:00h:17m:48s
+Tiempo en Embolsadoras 0d:00h:10m:12s
+Tiempo total en colas: 0d:01h:28m:00s
+
+User id: 182
+Farmacia: false
+Salchichonería: false
+Servicio al Cliente: true
+Carnes: false
+Compras: true
+Tiempo en Farmacia 0d:00h:00m:00s
+Tiempo en Salchichas 0d:00h:00m:00s
+Tiempo en Servicio al Cliente 0d:00h:00m:00s
+Tiempo en Carnes 0d:00h:00m:00s
+Tiempo en Compras 0d:00h:06m:00s
+Tiempo en Cajas 0d:00h:29m:12s
+Tiempo en Embolsadoras 0d:00h:11m:12s
+Tiempo total en colas: 0d:00h:52m:24s
+
+User id: 169
+Farmacia: false
+Salchichonería: true
+Servicio al Cliente: false
+Carnes: true
+Compras: true
+Tiempo en Farmacia 0d:00h:00m:00s
+Tiempo en Salchichas 0d:00h:06m:00s
+Tiempo en Servicio al Cliente 0d:00h:00m:00s
+Tiempo en Carnes 0d:01h:00m:00s
+Tiempo en Compras 0d:00h:06m:00s
+Tiempo en Cajas 0d:00h:11m:48s
+Tiempo en Embolsadoras 0d:00h:11m:48s
+Tiempo total en colas: 0d:01h:47m:36s
+
+User id: 178
+Farmacia: true
+Salchichonería: false
+Servicio al Cliente: false
+Carnes: false
+Compras: true
+Tiempo en Farmacia 0d:00h:30m:00s
+Tiempo en Salchichas 0d:00h:00m:00s
+Tiempo en Servicio al Cliente 0d:00h:00m:00s
+Tiempo en Carnes 0d:00h:00m:00s
+Tiempo en Compras 0d:00h:16m:00s
+Tiempo en Cajas 0d:00h:14m:00s
+Tiempo en Embolsadoras 0d:00h:15m:48s
+Tiempo total en colas: 0d:01h:31m:48s
+
+User id: 180
+Farmacia: true
+Salchichonería: false
+Servicio al Cliente: false
+Carnes: false
+Compras: true
+Tiempo en Farmacia 0d:00h:30m:00s
+Tiempo en Salchichas 0d:00h:00m:00s
+Tiempo en Servicio al Cliente 0d:00h:00m:00s
+Tiempo en Carnes 0d:00h:00m:00s
+Tiempo en Compras 0d:00h:06m:00s
+Tiempo en Cajas 0d:00h:08m:24s
+Tiempo en Embolsadoras 0d:00h:12m:24s
+Tiempo total en colas: 0d:01h:02m:48s
+
+User id: 186
+Farmacia: true
+Salchichonería: false
+Servicio al Cliente: false
+Carnes: true
+Compras: false
+Tiempo en Farmacia 0d:00h:10m:00s
+Tiempo en Salchichas 0d:00h:00m:00s
+Tiempo en Servicio al Cliente 0d:00h:00m:00s
+Tiempo en Carnes 0d:00h:18m:00s
+Tiempo en Compras 0d:00h:00m:00s
+Tiempo en Cajas 0d:00h:00m:00s
+Tiempo en Embolsadoras 0d:00h:00m:00s
+Tiempo total en colas: 0d:00h:40m:00s
+
+User id: 188
+Farmacia: true
+Salchichonería: false
+Servicio al Cliente: false
+Carnes: false
+Compras: true
+Tiempo en Farmacia 0d:00h:12m:00s
+Tiempo en Salchichas 0d:00h:00m:00s
+Tiempo en Servicio al Cliente 0d:00h:00m:00s
+Tiempo en Carnes 0d:00h:00m:00s
+Tiempo en Compras 0d:00h:06m:00s
+Tiempo en Cajas 0d:00h:10m:00s
+Tiempo en Embolsadoras 0d:00h:02m:24s
+Tiempo total en colas: 0d:00h:36m:24s
+
+User id: 191
+Farmacia: false
+Salchichonería: false
+Servicio al Cliente: false
+Carnes: false
+Compras: true
+Tiempo en Farmacia 0d:00h:00m:00s
+Tiempo en Salchichas 0d:00h:00m:00s
+Tiempo en Servicio al Cliente 0d:00h:00m:00s
+Tiempo en Carnes 0d:00h:00m:00s
+Tiempo en Compras 0d:00h:06m:00s
+Tiempo en Cajas 0d:00h:13m:00s
+Tiempo en Embolsadoras 0d:00h:13m:00s
+Tiempo total en colas: 0d:00h:32m:00s
+
+User id: 165
+Farmacia: true
+Salchichonería: true
+Servicio al Cliente: false
+Carnes: true
+Compras: true
+Tiempo en Farmacia 0d:00h:23m:00s
+Tiempo en Salchichas 0d:00h:00m:00s
+Tiempo en Servicio al Cliente 0d:00h:00m:00s
+Tiempo en Carnes 0d:01h:04m:00s
+Tiempo en Compras 0d:00h:06m:00s
+Tiempo en Cajas 0d:00h:05m:24s
+Tiempo en Embolsadoras 0d:00h:05m:24s
+Tiempo total en colas: 0d:02h:01m:48s
+
+User id: 203
+Farmacia: true
+Salchichonería: false
+Servicio al Cliente: false
+Carnes: false
+Compras: false
+Tiempo en Farmacia 0d:00h:00m:00s
+Tiempo en Salchichas 0d:00h:00m:00s
+Tiempo en Servicio al Cliente 0d:00h:00m:00s
+Tiempo en Carnes 0d:00h:00m:00s
+Tiempo en Compras 0d:00h:00m:00s
+Tiempo en Cajas 0d:00h:00m:00s
+Tiempo en Embolsadoras 0d:00h:00m:00s
+Tiempo total en colas: 0d:00h:06m:00s
+
+User id: 166
+Farmacia: true
+Salchichonería: true
+Servicio al Cliente: true
+Carnes: true
+Compras: true
+Tiempo en Farmacia 0d:00h:24m:00s
+Tiempo en Salchichas 0d:00h:00m:00s
+Tiempo en Servicio al Cliente 0d:00h:00m:00s
+Tiempo en Carnes 0d:00h:58m:00s
+Tiempo en Compras 0d:00h:06m:00s
+Tiempo en Cajas 0d:00h:07m:36s
+Tiempo en Embolsadoras 0d:00h:09m:12s
+Tiempo total en colas: 0d:02h:06m:48s
+
+User id: 184
+Farmacia: false
+Salchichonería: false
+Servicio al Cliente: false
+Carnes: true
+Compras: true
+Tiempo en Farmacia 0d:00h:00m:00s
+Tiempo en Salchichas 0d:00h:00m:00s
+Tiempo en Servicio al Cliente 0d:00h:00m:00s
+Tiempo en Carnes 0d:00h:40m:00s
+Tiempo en Compras 0d:00h:06m:00s
+Tiempo en Cajas 0d:00h:12m:24s
+Tiempo en Embolsadoras 0d:00h:12m:24s
+Tiempo total en colas: 0d:01h:16m:48s
+
+User id: 195
+Farmacia: false
+Salchichonería: false
+Servicio al Cliente: false
+Carnes: true
+Compras: false
+Tiempo en Farmacia 0d:00h:00m:00s
+Tiempo en Salchichas 0d:00h:00m:00s
+Tiempo en Servicio al Cliente 0d:00h:00m:00s
+Tiempo en Carnes 0d:00h:23m:00s
+Tiempo en Compras 0d:00h:00m:00s
+Tiempo en Cajas 0d:00h:00m:00s
+Tiempo en Embolsadoras 0d:00h:00m:00s
+Tiempo total en colas: 0d:00h:29m:00s
+
+User id: 183
+Farmacia: true
+Salchichonería: false
+Servicio al Cliente: true
+Carnes: true
+Compras: true
+Tiempo en Farmacia 0d:00h:16m:00s
+Tiempo en Salchichas 0d:00h:00m:00s
+Tiempo en Servicio al Cliente 0d:00h:00m:00s
+Tiempo en Carnes 0d:00h:18m:00s
+Tiempo en Compras 0d:00h:06m:00s
+Tiempo en Cajas 0d:00h:09m:48s
+Tiempo en Embolsadoras 0d:00h:09m:48s
+Tiempo total en colas: 0d:01h:17m:36s
+
+User id: 194
+Farmacia: false
+Salchichonería: false
+Servicio al Cliente: true
+Carnes: false
+Compras: true
+Tiempo en Farmacia 0d:00h:00m:00s
+Tiempo en Salchichas 0d:00h:00m:00s
+Tiempo en Servicio al Cliente 0d:00h:00m:00s
+Tiempo en Carnes 0d:00h:00m:00s
+Tiempo en Compras 0d:00h:06m:00s
+Tiempo en Cajas 0d:00h:14m:36s
+Tiempo en Embolsadoras 0d:00h:14m:36s
+Tiempo total en colas: 0d:00h:41m:12s
+
+User id: 196
+Farmacia: true
+Salchichonería: false
+Servicio al Cliente: false
+Carnes: false
+Compras: true
+Tiempo en Farmacia 0d:00h:00m:00s
+Tiempo en Salchichas 0d:00h:00m:00s
+Tiempo en Servicio al Cliente 0d:00h:00m:00s
+Tiempo en Carnes 0d:00h:00m:00s
+Tiempo en Compras 0d:00h:06m:00s
+Tiempo en Cajas 0d:00h:21m:12s
+Tiempo en Embolsadoras 0d:00h:08m:24s
+Tiempo total en colas: 0d:00h:41m:36s
+
+User id: 193
+Farmacia: true
+Salchichonería: true
+Servicio al Cliente: true
+Carnes: false
+Compras: true
+Tiempo en Farmacia 0d:00h:00m:00s
+Tiempo en Salchichas 0d:00h:00m:00s
+Tiempo en Servicio al Cliente 0d:00h:00m:00s
+Tiempo en Carnes 0d:00h:00m:00s
+Tiempo en Compras 0d:00h:06m:00s
+Tiempo en Cajas 0d:00h:06m:48s
+Tiempo en Embolsadoras 0d:00h:06m:48s
+Tiempo total en colas: 0d:00h:37m:36s
+
+User id: 187
+Farmacia: true
+Salchichonería: true
+Servicio al Cliente: true
+Carnes: true
+Compras: true
+Tiempo en Farmacia 0d:00h:06m:00s
+Tiempo en Salchichas 0d:00h:00m:00s
+Tiempo en Servicio al Cliente 0d:00h:00m:00s
+Tiempo en Carnes 0d:00h:17m:00s
+Tiempo en Compras 0d:00h:06m:00s
+Tiempo en Cajas 0d:00h:08m:48s
+Tiempo en Embolsadoras 0d:00h:08m:48s
+Tiempo total en colas: 0d:01h:10m:36s
+
+User id: 204
+Farmacia: true
+Salchichonería: true
+Servicio al Cliente: false
+Carnes: true
+Compras: false
+Tiempo en Farmacia 0d:00h:06m:00s
+Tiempo en Salchichas 0d:00h:00m:00s
+Tiempo en Servicio al Cliente 0d:00h:00m:00s
+Tiempo en Carnes 0d:00h:06m:00s
+Tiempo en Compras 0d:00h:00m:00s
+Tiempo en Cajas 0d:00h:00m:00s
+Tiempo en Embolsadoras 0d:00h:00m:00s
+Tiempo total en colas: 0d:00h:28m:00s
+
+User id: 212
+Farmacia: false
+Salchichonería: false
+Servicio al Cliente: false
+Carnes: true
+Compras: false
+Tiempo en Farmacia 0d:00h:00m:00s
+Tiempo en Salchichas 0d:00h:00m:00s
+Tiempo en Servicio al Cliente 0d:00h:00m:00s
+Tiempo en Carnes 0d:00h:12m:00s
+Tiempo en Compras 0d:00h:00m:00s
+Tiempo en Cajas 0d:00h:00m:00s
+Tiempo en Embolsadoras 0d:00h:00m:00s
+Tiempo total en colas: 0d:00h:18m:00s
+
+User id: 189
+Farmacia: false
+Salchichonería: true
+Servicio al Cliente: false
+Carnes: true
+Compras: true
+Tiempo en Farmacia 0d:00h:00m:00s
+Tiempo en Salchichas 0d:00h:00m:00s
+Tiempo en Servicio al Cliente 0d:00h:00m:00s
+Tiempo en Carnes 0d:00h:24m:00s
+Tiempo en Compras 0d:00h:06m:00s
+Tiempo en Cajas 0d:00h:12m:48s
+Tiempo en Embolsadoras 0d:00h:25m:36s
+Tiempo total en colas: 0d:01h:20m:24s
+
+User id: 201
+Farmacia: true
+Salchichonería: true
+Servicio al Cliente: false
+Carnes: false
+Compras: true
+Tiempo en Farmacia 0d:00h:00m:00s
+Tiempo en Salchichas 0d:00h:00m:00s
+Tiempo en Servicio al Cliente 0d:00h:00m:00s
+Tiempo en Carnes 0d:00h:00m:00s
+Tiempo en Compras 0d:00h:05m:00s
+Tiempo en Cajas 0d:00h:07m:48s
+Tiempo en Embolsadoras 0d:00h:07m:48s
+Tiempo total en colas: 0d:00h:31m:36s
+
+User id: 213
+Farmacia: false
+Salchichonería: true
+Servicio al Cliente: true
+Carnes: false
+Compras: false
+Tiempo en Farmacia 0d:00h:00m:00s
+Tiempo en Salchichas 0d:00h:00m:00s
+Tiempo en Servicio al Cliente 0d:00h:00m:00s
+Tiempo en Carnes 0d:00h:00m:00s
+Tiempo en Compras 0d:00h:00m:00s
+Tiempo en Cajas 0d:00h:00m:00s
+Tiempo en Embolsadoras 0d:00h:00m:00s
+Tiempo total en colas: 0d:00h:12m:00s
+
+User id: 185
+Farmacia: true
+Salchichonería: true
+Servicio al Cliente: false
+Carnes: true
+Compras: true
+Tiempo en Farmacia 0d:00h:16m:00s
+Tiempo en Salchichas 0d:00h:00m:00s
+Tiempo en Servicio al Cliente 0d:00h:00m:00s
+Tiempo en Carnes 0d:00h:24m:00s
+Tiempo en Compras 0d:00h:06m:00s
+Tiempo en Cajas 0d:00h:05m:36s
+Tiempo en Embolsadoras 0d:00h:31m:12s
+Tiempo total en colas: 0d:01h:39m:48s
+
+User id: 192
+Farmacia: false
+Salchichonería: false
+Servicio al Cliente: true
+Carnes: true
+Compras: true
+Tiempo en Farmacia 0d:00h:00m:00s
+Tiempo en Salchichas 0d:00h:00m:00s
+Tiempo en Servicio al Cliente 0d:00h:00m:00s
+Tiempo en Carnes 0d:00h:17m:00s
+Tiempo en Compras 0d:00h:06m:00s
+Tiempo en Cajas 0d:00h:22m:00s
+Tiempo en Embolsadoras 0d:00h:11m:00s
+Tiempo total en colas: 0d:01h:08m:00s
+
+User id: 198
+Farmacia: true
+Salchichonería: false
+Servicio al Cliente: true
+Carnes: true
+Compras: true
+Tiempo en Farmacia 0d:00h:00m:00s
+Tiempo en Salchichas 0d:00h:00m:00s
+Tiempo en Servicio al Cliente 0d:00h:06m:00s
+Tiempo en Carnes 0d:00h:06m:00s
+Tiempo en Compras 0d:00h:06m:00s
+Tiempo en Cajas 0d:00h:02m:48s
+Tiempo en Embolsadoras 0d:00h:02m:48s
+Tiempo total en colas: 0d:00h:40m:36s
+
+User id: 197
+Farmacia: false
+Salchichonería: false
+Servicio al Cliente: true
+Carnes: true
+Compras: true
+Tiempo en Farmacia 0d:00h:00m:00s
+Tiempo en Salchichas 0d:00h:00m:00s
+Tiempo en Servicio al Cliente 0d:00h:00m:00s
+Tiempo en Carnes 0d:00h:18m:00s
+Tiempo en Compras 0d:00h:06m:00s
+Tiempo en Cajas 0d:00h:11m:48s
+Tiempo en Embolsadoras 0d:00h:11m:48s
+Tiempo total en colas: 0d:00h:58m:36s
+
+User id: 200
+Farmacia: true
+Salchichonería: false
+Servicio al Cliente: true
+Carnes: false
+Compras: true
+Tiempo en Farmacia 0d:00h:00m:00s
+Tiempo en Salchichas 0d:00h:00m:00s
+Tiempo en Servicio al Cliente 0d:00h:00m:00s
+Tiempo en Carnes 0d:00h:00m:00s
+Tiempo en Compras 0d:00h:06m:00s
+Tiempo en Cajas 0d:00h:04m:24s
+Tiempo en Embolsadoras 0d:00h:15m:24s
+Tiempo total en colas: 0d:00h:37m:48s
+
+User id: 209
+Farmacia: false
+Salchichonería: true
+Servicio al Cliente: false
+Carnes: false
+Compras: true
+Tiempo en Farmacia 0d:00h:00m:00s
+Tiempo en Salchichas 0d:00h:05m:00s
+Tiempo en Servicio al Cliente 0d:00h:00m:00s
+Tiempo en Carnes 0d:00h:00m:00s
+Tiempo en Compras 0d:00h:06m:00s
+Tiempo en Cajas 0d:00h:23m:36s
+Tiempo en Embolsadoras 0d:00h:11m:48s
+Tiempo total en colas: 0d:00h:51m:24s
+
+User id: 214
+Farmacia: false
+Salchichonería: false
+Servicio al Cliente: true
+Carnes: true
+Compras: false
+Tiempo en Farmacia 0d:00h:00m:00s
+Tiempo en Salchichas 0d:00h:00m:00s
+Tiempo en Servicio al Cliente 0d:00h:00m:00s
+Tiempo en Carnes 0d:00h:17m:00s
+Tiempo en Compras 0d:00h:00m:00s
+Tiempo en Cajas 0d:00h:00m:00s
+Tiempo en Embolsadoras 0d:00h:00m:00s
+Tiempo total en colas: 0d:00h:28m:00s
+
+User id: 199
+Farmacia: false
+Salchichonería: true
+Servicio al Cliente: false
+Carnes: true
+Compras: true
+Tiempo en Farmacia 0d:00h:00m:00s
+Tiempo en Salchichas 0d:00h:00m:00s
+Tiempo en Servicio al Cliente 0d:00h:00m:00s
+Tiempo en Carnes 0d:00h:11m:00s
+Tiempo en Compras 0d:00h:06m:00s
+Tiempo en Cajas 0d:00h:35m:36s
+Tiempo en Embolsadoras 0d:00h:12m:00s
+Tiempo total en colas: 0d:01h:16m:36s
+
+User id: 205
+Farmacia: true
+Salchichonería: false
+Servicio al Cliente: false
+Carnes: true
+Compras: true
+Tiempo en Farmacia 0d:00h:11m:00s
+Tiempo en Salchichas 0d:00h:00m:00s
+Tiempo en Servicio al Cliente 0d:00h:00m:00s
+Tiempo en Carnes 0d:00h:06m:00s
+Tiempo en Compras 0d:00h:06m:00s
+Tiempo en Cajas 0d:00h:10m:00s
+Tiempo en Embolsadoras 0d:00h:10m:00s
+Tiempo total en colas: 0d:00h:55m:00s
+
+User id: 223
+Farmacia: true
+Salchichonería: false
+Servicio al Cliente: false
+Carnes: false
+Compras: false
+Tiempo en Farmacia 0d:00h:06m:00s
+Tiempo en Salchichas 0d:00h:00m:00s
+Tiempo en Servicio al Cliente 0d:00h:00m:00s
+Tiempo en Carnes 0d:00h:00m:00s
+Tiempo en Compras 0d:00h:00m:00s
+Tiempo en Cajas 0d:00h:00m:00s
+Tiempo en Embolsadoras 0d:00h:00m:00s
+Tiempo total en colas: 0d:00h:12m:00s
+
+User id: 207
+Farmacia: true
+Salchichonería: true
+Servicio al Cliente: false
+Carnes: false
+Compras: true
+Tiempo en Farmacia 0d:00h:12m:00s
+Tiempo en Salchichas 0d:00h:06m:00s
+Tiempo en Servicio al Cliente 0d:00h:00m:00s
+Tiempo en Carnes 0d:00h:00m:00s
+Tiempo en Compras 0d:00h:05m:00s
+Tiempo en Cajas 0d:00h:18m:48s
+Tiempo en Embolsadoras 0d:00h:09m:24s
+Tiempo total en colas: 0d:01h:02m:12s
+
+User id: 206
+Farmacia: true
+Salchichonería: true
+Servicio al Cliente: false
+Carnes: false
+Compras: true
+Tiempo en Farmacia 0d:00h:12m:00s
+Tiempo en Salchichas 0d:00h:00m:00s
+Tiempo en Servicio al Cliente 0d:00h:00m:00s
+Tiempo en Carnes 0d:00h:00m:00s
+Tiempo en Compras 0d:00h:06m:00s
+Tiempo en Cajas 0d:00h:19m:12s
+Tiempo en Embolsadoras 0d:00h:09m:12s
+Tiempo total en colas: 0d:00h:58m:24s
+
+User id: 202
+Farmacia: true
+Salchichonería: false
+Servicio al Cliente: true
+Carnes: true
+Compras: true
+Tiempo en Farmacia 0d:00h:11m:00s
+Tiempo en Salchichas 0d:00h:00m:00s
+Tiempo en Servicio al Cliente 0d:00h:06m:00s
+Tiempo en Carnes 0d:00h:18m:00s
+Tiempo en Compras 0d:00h:06m:00s
+Tiempo en Cajas 0d:00h:09m:48s
+Tiempo en Embolsadoras 0d:00h:09m:48s
+Tiempo total en colas: 0d:01h:18m:36s
+
+User id: 210
+Farmacia: true
+Salchichonería: true
+Servicio al Cliente: true
+Carnes: false
+Compras: true
+Tiempo en Farmacia 0d:00h:06m:00s
+Tiempo en Salchichas 0d:00h:00m:00s
+Tiempo en Servicio al Cliente 0d:00h:00m:00s
+Tiempo en Carnes 0d:00h:00m:00s
+Tiempo en Compras 0d:00h:06m:00s
+Tiempo en Cajas 0d:00h:07m:36s
+Tiempo en Embolsadoras 0d:00h:17m:00s
+Tiempo total en colas: 0d:00h:54m:36s

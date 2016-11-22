@@ -2,6 +2,7 @@
 using UnityEngine.UI;
 using System.Collections;
 using System.Collections.Generic;
+using System;
 
 public class User : MonoBehaviour {
 
@@ -10,19 +11,32 @@ public class User : MonoBehaviour {
     public int id = 0;
     public float waitingTime;
     public int numberOfItems;
+    public float totalWaitingTime;
     string nextTargetString;
+    int numberOfTransitions;
     GameObject nextTarget;
     VariableManager manager;
     UnityRandom urand;
     ShowStats stats;
     public bool done;
     List<string> places = new List<string>();
+    Dictionary<string, float> waitingTimes = new Dictionary<string, float>();
+
     void Awake()
     {
         gameObject.GetComponent<Button>().onClick.AddListener( () => {selectButton();});
     }         
 
-	void Start () {  
+    void Start () {  
+        waitingTimes.Add("Farmacia", 0);
+        waitingTimes.Add("Salchichas", 0);
+        waitingTimes.Add("Atencion_Cliente", 0);
+        waitingTimes.Add("Carnes", 0);
+        waitingTimes.Add("Compras", 0);
+        waitingTimes.Add("Caja", 0);
+        waitingTimes.Add("Embolsadora", 0);              
+
+        numberOfTransitions = 0;
         done = false;
         numberOfItems = 0;
         nextTargetString = "";    
@@ -73,6 +87,7 @@ public class User : MonoBehaviour {
     public void addWaitingTime(float seconds)
     {        
         waitingTime += seconds;
+        totalWaitingTime += waitingTime;
     }
 
     bool hasNoQueues()
@@ -122,7 +137,7 @@ public class User : MonoBehaviour {
     }
 
     void Update()
-    {
+    {        
         if (done)
         {
             if (nextTargetString != "")
@@ -193,5 +208,65 @@ public class User : MonoBehaviour {
     public void selectButton()
     {        
         VariableManager.instance.setLastButtonPressed(this.gameObject);
+    }
+
+    public void addTransition()
+    {
+        numberOfTransitions++;
+    }      
+
+    public void addToTotalWaitingTime(float _time)
+    {
+        totalWaitingTime += _time;
+    }
+
+    public void addPartialWaitingTime(string name, float _time)
+    {
+        if (name.Contains("Caja"))
+        {
+            waitingTimes["Caja"] += _time;
+        }
+        else if (name.Contains("Embolsado"))
+        {
+            waitingTimes["Embolsadora"] += _time;
+        }
+        else
+        {            
+            waitingTimes[name] += _time;
+        }
+    }
+
+    public void writeData()
+    {
+        TimeSpan actualTime = TimeSpan.FromSeconds(VariableManager.instance.secondsElapsed);
+
+        string text = "\n";
+        text += "[" + string.Format("{3:d}d:{0:D2}h:{1:D2}m:{2:D2}s", actualTime.Hours, actualTime.Minutes, actualTime.Seconds, actualTime.Days) + "]" + "\n";
+        text += "User id: " + id.ToString() + "\n";
+        text += "Farmacia: " + ((FarmaciaBool == true) ? "true" : "false") + "\n";
+        text += "Salchichonería: " + ((SalchichasBool == true) ? "true" : "false") + "\n";
+        text += "Servicio al Cliente: " + ((AtencionClienteBool == true) ? "true" : "false") + "\n";
+        text += "Carnes: " + ((CarnesBool == true) ? "true" : "false") + "\n";
+        text += "Compras: " + ((CompraBool == true) ? "true" : "false") + "\n";
+
+        TimeSpan tiempoFarmacia = TimeSpan.FromSeconds(waitingTimes["Farmacia"]);
+        TimeSpan tiempoSalchichas = TimeSpan.FromSeconds(waitingTimes["Salchichas"]);
+        TimeSpan tiempoServicioCliente = TimeSpan.FromSeconds(waitingTimes["Atencion_Cliente"]);      
+        TimeSpan tiempoCarnes = TimeSpan.FromSeconds(waitingTimes["Carnes"]);
+        TimeSpan tiempoCompras = TimeSpan.FromSeconds(waitingTimes["Compras"]);
+        TimeSpan tiempoCajas = TimeSpan.FromSeconds(waitingTimes["Caja"]);
+        TimeSpan tiempoEmbolsadora = TimeSpan.FromSeconds(waitingTimes["Embolsadora"]);
+        TimeSpan tiempoTotal = TimeSpan.FromSeconds(totalWaitingTime);
+                                      
+        text += "Tiempo en Farmacia " + string.Format("{3:d}d:{0:D2}h:{1:D2}m:{2:D2}s", tiempoFarmacia.Hours, tiempoFarmacia.Minutes, tiempoFarmacia.Seconds, tiempoFarmacia.Days) + "\n";
+        text += "Tiempo en Salchichas " + string.Format("{3:d}d:{0:D2}h:{1:D2}m:{2:D2}s", tiempoSalchichas.Hours, tiempoSalchichas.Minutes, tiempoSalchichas.Seconds, tiempoSalchichas.Days) + "\n";
+        text += "Tiempo en Servicio al Cliente " + string.Format("{3:d}d:{0:D2}h:{1:D2}m:{2:D2}s", tiempoServicioCliente.Hours, tiempoServicioCliente.Minutes, tiempoServicioCliente.Seconds, tiempoServicioCliente.Days) + "\n";
+        text += "Tiempo en Carnes " + string.Format("{3:d}d:{0:D2}h:{1:D2}m:{2:D2}s", tiempoCarnes.Hours, tiempoCarnes.Minutes, tiempoCarnes.Seconds, tiempoCarnes.Days) + "\n";
+        text += "Tiempo en Compras " + string.Format("{3:d}d:{0:D2}h:{1:D2}m:{2:D2}s", tiempoCompras.Hours, tiempoCompras.Minutes, tiempoCompras.Seconds, tiempoCompras.Days) + "\n";
+        text += "Tiempo en Cajas " + string.Format("{3:d}d:{0:D2}h:{1:D2}m:{2:D2}s", tiempoCajas.Hours, tiempoCajas.Minutes, tiempoCajas.Seconds, tiempoCajas.Days) + "\n";
+        text += "Tiempo en Embolsadoras " + string.Format("{3:d}d:{0:D2}h:{1:D2}m:{2:D2}s", tiempoEmbolsadora.Hours, tiempoEmbolsadora.Minutes, tiempoEmbolsadora.Seconds, tiempoEmbolsadora.Days) + "\n";
+        text += "Tiempo total en colas: " + string.Format("{3:d}d:{0:D2}h:{1:D2}m:{2:D2}s", tiempoTotal.Hours, tiempoTotal.Minutes, tiempoTotal.Seconds, tiempoTotal.Days) + "\n";
+
+        FileWriter.instance.writeLine(text);
     }
 }

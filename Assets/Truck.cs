@@ -62,7 +62,6 @@ public class Truck : MonoBehaviour {
             nextTarget = GameObject.Find(nextTargetString);
             TransitionManager.instance.moveToArea(this.gameObject, nextTarget.name, VariableManager.instance.movementSpeed);
             nextTargetString = "";
-            Debug.Log("moving truck");
         }
 	}
 
